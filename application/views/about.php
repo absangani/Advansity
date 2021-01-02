@@ -60,14 +60,14 @@
     <div class="container d-flex justify-content-between">
 
       <div class="logo">
-        <h1 class="text-light"><a href="index.html"><span>Advansity IT World</span></a></h1>
+        <h1 class="text-light"><a href="index.html"><span>Advansity IT World <?php echo "about us";?></span></a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-            <?php echo "about us";?>
+            
           <li class="active"><a href="<?php echo base_url();?>">Home</a></li>
           <li><a href="">For Student</a></li>
           <li><a href="">For Business</a></li>
