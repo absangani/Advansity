@@ -23,8 +23,12 @@ class Welcome extends CI_Controller {
 	// 	//$this->load->view('about');
 	// 	form();
 	// }
-	public function form()
+	public function index()
 	{
 		$this->load->view('welcome_message');
 	}
+
+	// public function form12(){
+	// 	$this->load->view('about');
+	// }
 }
