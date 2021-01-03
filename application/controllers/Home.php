@@ -16,8 +16,12 @@ class Home extends CI_Controller {
 		$this->load->view('home');
 	}
 
-	// public function about(){
-	// 	$this->load->view('about');
-	// 	// $this->load->library('../controllers/whathever');
-	// }
+	public function about(){
+		// require('About.php');
+		// $About = new About();
+        // $About->index();
+		// $this->load->view('about');
+		// $this->load->library('../controllers/whathever');
+		
+	}
 }

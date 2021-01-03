@@ -918,42 +918,67 @@ section {
 /*--------------------------------------------------------------
 # Values
 --------------------------------------------------------------*/
-.values .card {
-  border: 0;
+.values{
+  padding: 20px 0 30 px 0;
+  position: relative;
+  z-index: 3;
+}
+
+.values .content {
+  padding: 40px;
+  background: #212321;
+  border-radius: 4px;
+  color: #fff;
+  box-shadow: 0px 5px 15px #584df1;
+  background-blend-mode: soft-light;
+}
+/* .values .contect::before{
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: #e2f3ffa8;
+
+} */
+/* .values .card {
   padding: 160px 20px 20px 20px;
   position: relative;
   width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-}
+  background: #0d0d0ea8;
+} */
 
-.values .card-body {
-  z-index: 10;
+/* .values .card-body {
+  z-index: 3;
   background:#c8e8ff;
-  padding: 15px 30px;
+  padding: 40px;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
-  transition: 0.3s;
-  transition: ease-in-out 0.4s;
-  border-radius: 5px;
-}
+  /* transition: 0.3s; */
+  /* transition: ease-in-out 0.4s; */
+  /* border-radius: 4px; */
+/* }  */
 
 .values .card-title {
   font-weight: 700;
   text-align: center;
   margin-bottom: 15px;
+  color: #e2f3ff;
 }
 
 .values .card-title a {
-  color: #473d3a;
+  color: #e2f3ff;
 }
 
 .values .card-text {
-  color: #4b4949;
+  color: #c8e8ff;
 }
 
 .values .read-more a {
-  color: #656262;
+  color: #c8e8ff;
   text-transform: uppercase;
   font-weight: 600;
   font-size: 12px;
@@ -962,6 +987,9 @@ section {
 
 .values .read-more a:hover {
   text-decoration: underline;
+  /* border: #212321; */
+  border-radius: 40px;
+  background: #212321;
 }
 
 .values .card:hover .card-body {
