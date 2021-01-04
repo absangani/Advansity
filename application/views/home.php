@@ -40,7 +40,7 @@
 
 <body>
 
-  <?php $this->load->view(navbar) ?>
+  <?php $this->load->view('navbar'); ?>
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="container" data-aos="fade-in">
