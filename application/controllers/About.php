@@ -7,7 +7,6 @@ class About extends CI_Controller {
     {
             parent::__construct();
             // Your own constructor code
-            echo "hello this is about us";
     }
 
 	public function index()

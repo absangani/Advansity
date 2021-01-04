@@ -8,7 +8,6 @@ class Contact extends CI_Controller {
 	{
 			parent::__construct();
 			// Your own constructor code
-			// echo "hello this is Home page";
 	}
 
 	public function index()
