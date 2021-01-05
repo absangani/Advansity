@@ -42,8 +42,8 @@
 
 <?php $this->load->view('navbar'); ?>
   <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
-    <div class="container" data-aos="fade-in">
+  <section id="contact-hero" class="d-flex flex-column justify-content-center align-items-center">
+    <div class="container">
       <h1>Welcome to Advansity IT World</h1>
       <h2>Our talented team work for making your dream to real</h2>
       <div class="d-flex align-items-center">
@@ -57,8 +57,8 @@
 
 
     <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="testimonials">
-      <div class="container" data-aos="fade-up">
+    <!-- <section id="testimonials" class="testimonials">
+      <div class="container"  >
 
         <div class="owl-carousel testimonials-carousel">
 
@@ -120,20 +120,12 @@
         </div>
 
       </div>
-    </section><!-- End Testimonials Section -->
-
-   
-
-    
-
-   
-
-   
+    </section> -->
+    <!-- End Testimonials Section -->
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
       <div class="container">
-
         <div class="section-title">
           <h2 data-aos="fade-up">Contact</h2>
           <p data-aos="fade-up">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
