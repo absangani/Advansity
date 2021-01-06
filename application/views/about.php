@@ -101,6 +101,7 @@
       </div>
     </section>
 
+    <!-- ======= Clients Section ======= -->
     <section id="collaborater" class="collaborater section-bg">
       <div class="container" data-aos="fade-up">
 
@@ -117,14 +118,15 @@
 
       </div>
     </section>
+    <!-- End Clients Section -->
 
 
     <!-- ======= Services Section ======= -->
     <section id="aboutServices" class="aboutServices">
       <div class="container">
         <div class="section-title" data-aos="fade-up">
-          <h2>Student Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2 class="pb-4">Student Services</h2>
+          <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
 
         <div class="row">
@@ -178,8 +180,8 @@
           </div>
         </div>
         <div class="section-title pt-4" data-aos="fade-up">
-          <h2>Business Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2 class="pb-4 pt-5">Business Services</h2>
+          <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
         <div class="row">
           <div id="main-box5" class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
@@ -237,43 +239,13 @@
     <!-- End Services Section -->
     
 
-    <!-- ======= Clients Section ======= -->
-    <!-- <section id="clients" class="clients">
-      <div class="container" data-aos="fade-up">
-
-        <div class="owl-carousel clients-carousel">
-          <img src="assets/img/clients/client-1.png" alt="">
-          <img src="assets/img/clients/client-2.png" alt="">
-          <img src="assets/img/clients/client-3.png" alt="">
-          <img src="assets/img/clients/client-4.png" alt="">
-          <img src="assets/img/clients/client-5.png" alt="">
-          <img src="assets/img/clients/client-6.png" alt="">
-          <img src="assets/img/clients/client-7.png" alt="">
-          <img src="assets/img/clients/client-8.png" alt="">
-        </div>
-
-      </div>
-    </section> -->
-    <!-- End Clients Section -->
-
     <!-- ======= Portfolio Section ======= -->
-    <section id="lite-portfolio" class="portfolio">
+    <section id="lite-portfolio" class="lite-portfolio">
       <div class="container">
 
         <div class="section-title">
           <h2 data-aos="fade-up">Portfolio</h2>
           <p data-aos="fade-up">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
-
-        <div class="row" data-aos="fade-up" data-aos-delay="100">
-          <div class="col-lg-12 d-flex justify-content-center">
-            <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
-            </ul>
-          </div>
         </div>
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
@@ -306,6 +278,11 @@
               <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
+          </div>
+        </div>
+        <div class="text-center">
+          <div class="align-items-center">
+            <a id="btnGallery" href="" class="btn">View Gallery</a>
           </div>
         </div>
 
