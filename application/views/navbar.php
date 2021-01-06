@@ -28,11 +28,11 @@
       <nav class="nav-menu d-none d-lg-block">
         <ul>
           <li class="active"><a href="<?php echo base_url();?>">Home</a></li>
-          <li><a href="">For Student</a></li>
-          <li><a href="">For Business</a></li>
+          <li><a href="<?php echo base_url();?>For Student">For Student</a></li>
+          <li><a href="<?php echo base_url();?>For Business">For Business</a></li>
           <li><a href="<?php echo base_url();?>About">About Us</a></li>
           <li><a href="<?php echo base_url();?>Contact">Contact Us</a></li>
-          <li><a href="">Help</a></li>
+          <li><a href="<?php echo base_url();?>Help">Help</a></li>
           <!-- <li><a href="blog.html">Blog</a></li>
           <li class="drop-down"><a href="">Drop Down</a>
             <ul>
