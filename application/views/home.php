@@ -46,10 +46,10 @@
     <div class="container" data-aos="fade-in">
       <h1>Welcome to Advansity IT World</h1>
       <h2>Our talented team work for making your dream to real</h2>
-      <div class="d-flex align-items-center">
+      <!-- <div class="d-flex align-items-center">
         <i class="bx bxs-right-arrow-alt get-started-icon"></i>
         <a href="#about" class="btn-get-started scrollto">Get Started</a>
-      </div>
+      </div> -->
     </div>
   </section><!-- End Hero -->
 
@@ -547,7 +547,7 @@
 
     <!-- ======= courses Section ======= -->
     <section id="courses" class="courses">
-      <div class="container">
+      <div class="container ">
 
         <div class="section-title">
           <h2 data-aos="fade-up">Courses</h2>
@@ -556,7 +556,7 @@
 
         <div class="row">
 
-          <div class="col-lg-3 col-md-6" data-aos="fade-up">
+          <div class="col-lg-3 col-md-6 " data-aos="fade-up">
             <div class="box">
               <h3>Web Designing & Development</h3>
               <h4>1<span> year</span></h4>
@@ -567,11 +567,9 @@
                 <li>Java Script / JQuery</li>
                 <li>PHP / PHP 5</li>
               </ul>
-              <div class="btn-wrap">
-                <a href="#" class="btn-buy">See More</a>
-              </div>
             </div>
           </div>
+          
 
           <div class="col-lg-3 col-md-6" data-aos="fade-up">
             <div class="box">
@@ -585,9 +583,6 @@
                 <li>  </li>
                 <li>  </li>
               </ul>
-              <div class="btn-wrap">
-                <a href="#" class="btn-buy">See More</a>
-              </div>
             </div>
           </div>
 
@@ -602,9 +597,6 @@
                 <li>Java</li>
                 <li>XML</li>
               </ul>
-              <div class="btn-wrap">
-                <a href="#" class="btn-buy">See More</a>
-              </div>
             </div>
           </div>
 
@@ -620,10 +612,11 @@
                 <li>Designing</li>
                 <li>Flutter Application</li>
               </ul>
-              <div class="btn-wrap">
-                <a href="#" class="btn-buy">See More</a>
-              </div>
             </div>
+          </div>
+
+          <div class="btn-wrap">
+            <a href="#" class="btn-buy">See More</a>
           </div>
 
         </div>

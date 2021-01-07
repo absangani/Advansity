@@ -59,8 +59,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  color: #fff;
-  background: #fff9;
+  color: #584df1;
+  background: rgba(134, 131, 180, 0.6);
   transition: background 0.2s ease-in-out;
 }
 
@@ -405,7 +405,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero h1 {
-  margin: 0 0 10px 0;
+  margin: 0px 0px 10px 0;
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
@@ -1021,6 +1021,7 @@ section {
 }
 
 .services .icon-box {
+  border-radius: 20px;
   padding: 50px 20px;
   margin-top: 35px;
   margin-bottom: 25px;
@@ -1901,13 +1902,17 @@ section {
 
 .courses .box {
   padding: 20px;
+  margin: 25px 10px 25px 10px;
   background: #212521;
   text-align: center;
   box-shadow: 0px 0px 30px #584df1;
   border-radius: 5px;
   position: relative;
   overflow: hidden;
+  height: 360px;
+  border-radius: 10px;
 }
+
 
 .courses h3 {
   font-weight: 400;
@@ -1918,6 +1923,7 @@ section {
   color: #fff;
   background: #292a4c;
   box-shadow: 0 3px 7px #c8e8ffcd;
+  
 }
 
 .courses h4 {
@@ -1965,8 +1971,8 @@ section {
 }
 
 .courses .btn-wrap {
-  margin: 20px -20px -20px -20px;
-  padding: 20px 15px;
+  margin: 40px 0px;
+  padding: 20px 20px;
   background: #292a4c;
   text-align: center;
   box-shadow: 3px 0px 7px #c8e8ffcd;
@@ -1975,7 +1981,7 @@ section {
 .courses .btn-buy {
   background: #e2f3ff;
   display: inline-block;
-  padding: 6px 35px 8px 35px;
+  padding: 8px 35px 8px 35px;
   border-radius: 4px;
   color: #212321;
   transition: none;
@@ -2274,6 +2280,188 @@ background: #212529;
   100% {
     transform: rotate(360deg);
   }
+}
+
+/*--------------------------------------------------------------
+# Student Page
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# Features
+--------------------------------------------------------------*/
+.features {
+  padding-bottom: 40px;
+}
+
+.features .nav-tabs {
+  border: 0;
+}
+
+.features .nav-link {
+  border: 0;
+  padding: 20px;
+  transition: 0.3s;
+  color: #364146;
+  transition: 0.3s ease-in-out;
+  border-radius: 0;
+  border-left: 4px solid #fafbfb;
+}
+
+.features .nav-link h4 {
+  font-size: 18px;
+  font-weight: 600;
+  transition: 0.3s ease-in-out;
+  color: #576971;
+}
+
+.features .nav-link p {
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.features .nav-link:hover {
+  background: #fafbfb;
+}
+
+.features .nav-link:hover h4 {
+  color: #364146;
+}
+
+.features .nav-link.active {
+  border-radius: 0;
+  border: 0;
+  border-left: 4px solid #009cea;
+  background: #fafbfb;
+}
+
+.features .nav-link.active h4 {
+  color: #009cea;
+}
+
+.features .tab-pane.active {
+  -webkit-animation: slide-down 0.5s ease-out;
+  animation: slide-down 0.5s ease-out;
+}
+
+.features .tab-content {
+  text-align: right;
+}
+
+@-webkit-keyframes slide-down {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes slide-down {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+/*--------------------------------------------------------------
+ New Section
+ --------------------------------------------------------------*/
+ .section-heading {
+  font-size: 3rem;
+  font-weight: 700;
+  background: linear-gradient(-45deg, #3db3c5, #274685);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.feature-1 .wrap-icon {
+  margin: 0 auto;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  position: relative;
+  margin-bottom: 30px;
+  box-shadow: 0 15px 30px 0 rgba(0, 0, 0, 0.2);
+}
+
+.feature-1 .wrap-icon.icon-1 {
+  background: linear-gradient(-45deg, #3b87bd, #2d71a2);
+}
+
+.feature-1 .wrap-icon .icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-size: 2.5rem;
+}
+
+.feature-1 h3 {
+  font-size: 20px;
+  color: #c8e8ff;
+}
+
+.feature-1 p {
+  color: #b1b1b1;
+}
+
+/*--------------------------------------------------------------
+# Review
+--------------------------------------------------------------*/
+.review h3 {
+  font-size: 20px;
+}
+
+/* .review p {
+  line-height: 1.8;
+  font-style: italic;
+  color: #333333;
+}
+
+.review .stars span {
+  color: #FF8803;
+}
+
+.review .stars .muted {
+  color: #ccc;
+} */
+
+.review .review-user img {
+  width: 70px;
+  margin: 0 auto;
+}
+
+/*--------------------------------------------------------------
+ Testimonial Carousel 
+ --------------------------------------------------------------*/
+.testimonial-carousel .owl-dots {
+  position: absolute;
+  bottom: -40px;
+  width: 100%;
+  text-align: center;
+}
+
+.testimonial-carousel .owl-dots .owl-dot {
+  display: inline-block;
+}
+
+.testimonial-carousel .owl-dots .owl-dot > span {
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  background-color: #cbd3da;
+  border-radius: 50%;
+  margin: 5px;
+}
+
+.testimonial-carousel .owl-dots .owl-dot.active {
+  outline: none;
+}
+
+.testimonial-carousel .owl-dots .owl-dot.active > span {
+  background: linear-gradient(-45deg, #1391a5, #274685);
 }
 
 /*--------------------------------------------------------------
