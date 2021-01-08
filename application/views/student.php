@@ -55,40 +55,34 @@
 
   <main id="main">
 
-    <!-- ======= Why Us Section ======= -->
-    <section id="why-us" class="why-us">
+  <!-- ======= Why Us Section ======= -->
+  <section id="services-us" class="services-us">
       <div class="container">
 
         <div class="row">
           <div class=" d-flex">
             <div class="icon-boxes d-flex flex-column justify-content-center">
               <div class="row mb-5">
-                <div class="col-xl-3 col-lg-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+                <div class="col d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-receipt"></i>
+                    <img src="assets/images/gif.gif" alt="">
                     <h4>We provide fast and secure service</h4>
                     <!-- <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p> -->
                   </div>
                 </div>
-                <div class="col-xl-3 col-lg-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+                <div class="col d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-receipt"></i>
+                    <!-- <i class="bx bx-receipt"></i> -->
+                    <img src="assets/images/gif.gif" alt="">
                     <h4>We provide fast and secure service</h4>
                     <!-- <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p> -->
                   </div>
                 </div>
-                <div class="col-xl-3 col-lg-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+                <div class="col d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                   <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-cube-alt"></i>
+                  <img src="assets/images/gif.gif" alt="">
                     <h4>We provide life time memmber ship with us</h4>
                     <!-- <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p> -->
-                  </div>
-                </div>
-                <div class="col-xl-3 col-lg-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
-                  <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-images"></i>
-                    <h4>Chance to Learn with company base projects</h4>
-                    <!-- <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p> -->
                   </div>
                 </div>
               </div>
@@ -162,67 +156,101 @@
     </section>
     <!-- End Features Section -->
 
-    <!-- new section -->
-    <section class="section">
-      <div class="container">
+    <!-- ======= courses Section ======= -->
+    <section id="courses" class="courses ">
+      <div class="container ">
 
-        <div class="row justify-content-center text-center mb-5">
-          <div class="col-md-5" data-aos="fade-up">
-            <h2 class="section-heading">Courses Details</h2>
-          </div>
+        <div class="section-title">
+          <h2 data-aos="fade-up">Courses</h2>
+          <p data-aos="fade-up">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
-
         <div class="row">
-          <div class="col" data-aos="fade-up" data-aos-delay="">
-            <div class="feature-1 text-center">
-              <div class="wrap-icon icon-1">
-                <span class="icon la la-users"></span>
+          <div class="owl-carousel courses-carousel">
+
+            <div class="" data-aos="fade-up">
+              <div class="box">
+                <h3>Web Designing & Development</h3>
+                <h4>1<span> year</span></h4>
+                <ul>
+                  <li>HTML /HTML 5</li>
+                  <li>CSS / CSS 3</li>
+                  <li>Bootstrap</li>
+                  <li>Java Script / JQuery</li>
+                  <li>PHP / PHP 5</li>
+                </ul>
               </div>
-              <h3 class="mb-3">Web Designing & Development</h3>
-              <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p> -->
             </div>
-          </div>
-          <div class="col" data-aos="fade-up" data-aos-delay="100">
-            <div class="feature-1 text-center">
-              <div class="wrap-icon icon-1">
-                <span class="icon la la-toggle-off"></span>
+            
+
+            <div class="" data-aos="fade-up">
+              <div class="box">
+                <h3>Graphic Designing</h3>
+                <h4>6<span> month</span></h4>
+                <ul>
+                  <li>Photo Shop</li>
+                  <li>Iilustrator</li>
+                  <li>Corel Draw</li>
+                  <li>After Effect</li>
+                  <li>  </li>
+                  <li>  </li>
+                </ul>
               </div>
-              <h3 class="mb-3">Graphic Designing</h3>
-              <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p> -->
             </div>
-          </div>
-          <div class="col" data-aos="fade-up" data-aos-delay="200">
-            <div class="feature-1 text-center">
-              <div class="wrap-icon icon-1">
-                <span class="icon la la-umbrella"></span>
+
+            <div class="" data-aos="fade-up" data-aos-delay="200">
+              <div class="box">
+                <h3>Mobile Developement</h3>
+                <h4>1<span> year</span></h4>
+                <ul>
+                  <li>C Language</li>
+                  <li>C++</li>
+                  <li>Android Studio</li>
+                  <li>Java</li>
+                  <li>XML</li>
+                </ul>
               </div>
-              <h3 class="mb-3">Mobile Developement</h3>
-              <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p> -->
             </div>
-          </div>
-          <div class="col" data-aos="fade-up" data-aos-delay="200">
-            <div class="feature-1 text-center">
-              <div class="wrap-icon icon-1">
-                <span class="icon la la-umbrella"></span>
+
+            <div class="" data-aos="fade-up" data-aos-delay="300">
+              <div class="box">
+                <span class="advanced">New</span>
+                <h3>Flutter Development</h3>
+                <h4>1<span> year</span></h4>
+                <ul>
+                  <li>Introduction</li>
+                  <li>Installtion</li>
+                  <li>Dart Language</li>
+                  <li>Designing</li>
+                  <li>Flutter Application</li>
+                </ul>
               </div>
-              <h3 class="mb-3">Flutter Development</h3>
-              <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p> -->
             </div>
-          </div>
-          <div class="col" data-aos="fade-up" data-aos-delay="200">
-            <div class="feature-1 text-center">
-              <div class="wrap-icon icon-1">
-                <span class="icon la la-umbrella"></span>
+
+            <div class="" data-aos="fade-up" data-aos-delay="300">
+              <div class="box">
+                <span class="advanced">New</span>
+                <h3>Dot Net Development</h3>
+                <h4>1<span> year</span></h4>
+                <ul>
+                  <li>Introduction</li>
+                  <li>Installtion</li>
+                  <li>Dart Language</li>
+                  <li>Designing</li>
+                  <li>Flutter Application</li>
+                </ul>
               </div>
-              <h3 class="mb-3">Dot Net Development</h3>
-              <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p> -->
             </div>
           </div>
         </div>
+
+          <div class="btn-wrap">
+            <a href="#" class="btn-buy">See More</a>
+          </div>
 
       </div>
-    </section>
-    <!-- end new section -->
+    </section><!-- End Pricing Section -->
+
+    
 
     <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials">

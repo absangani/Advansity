@@ -404,6 +404,25 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 2;
 }
 
+.hero .wave {
+  width: 100%;
+  overflow: hidden;
+  position: absolute;
+  z-index: 1;
+  bottom: 150px;
+  background: #0f0d0c;
+}
+
+@media screen and (max-width: 992px) {
+  .hero .wave {
+    bottom: -180px;
+  }
+}
+
+.hero .wave svg {
+  width: 100%;
+}
+
 #hero h1 {
   margin: 0px 0px 10px 0;
   font-size: 48px;
@@ -730,6 +749,15 @@ section {
   font-size: 20px;
   font-weight: 700;
   margin: 0 0 30px 0;
+  color: #554945;
+}
+
+.why-us .icon-boxes .icon-box img {
+  height: 200px;
+  width: 200px;
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0px 0px 5px 0px;
   color: #554945;
 }
 
@@ -1911,10 +1939,11 @@ section {
 
 .courses .box {
   padding: 20px;
-  margin: 25px 10px 25px 10px;
+  margin: 25px 20px 25px 20px;
   background: #212521;
   text-align: center;
-  box-shadow: 0px 0px 30px #584df183;
+  box-shadow: 5px 7px 20px #2b2b50;
+  /* box-shadow: 5px 5px 15px #2b2b50; */
   border-radius: 5px;
   position: relative;
   overflow: hidden;
@@ -1931,7 +1960,7 @@ section {
   font-weight: 600;
   color: #fff;
   background: #292a4c;
-  box-shadow: 0 3px 7px #c8e8ffcd;
+  box-shadow: 0 3px 7px #5b5b5b;
   
 }
 
@@ -2293,6 +2322,87 @@ background: #212529;
     transform: rotate(360deg);
   }
 }
+
+/*--------------------------------------------------------------
+# business Page
+--------------------------------------------------------------*/
+.services-us {
+  padding: 20px 0 30px 0;
+  position: relative;
+  z-index: 3;
+}
+
+.services-us .content {
+  padding: 40px;
+  background: #584df1;
+  border-radius: 20px;
+  color: #fff;
+  box-shadow: 5px 7px 30px #39319ea6;
+}
+
+.services-us .content h3 {
+  font-weight: 700;
+  font-size: 34px;
+  margin-bottom: 30px;
+}
+
+.services-us .content p {
+  margin-bottom: 30px;
+}
+
+.services-us .content .more-btn {
+  display: inline-block;
+  background:#fff;
+  padding: 6px 30px 8px 30px;
+  color: #3526ff;
+  border-radius: 50px;
+  transition: all ease-in-out 0.4s;
+}
+
+.services-us .content .more-btn i {
+  font-size: 14px;
+}
+
+.services-us .content .more-btn:hover {
+  color: #584df1;
+  background: #c8e8ff;
+}
+
+.services-us .icon-boxes .icon-box {
+  text-align: center;
+  border-radius: 10px;
+  background: #e2f3ff;
+  box-shadow: 5px 7px 30px #5165747e;
+  padding: 40px 30px;
+  width: 100%;
+  margin: 0px 30px 0px 30px;
+}
+
+.services-us .icon-boxes .icon-box i {
+  font-size: 40px;
+  color: #584df1;
+  margin-bottom: 30px;
+}
+
+.services-us .icon-boxes .icon-box h4 {
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0 0 30px 0;
+  color: #554945;
+}
+
+.services-us .icon-boxes .icon-box img {
+  width: 50%;
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0px 0px 10px 0px;
+}
+
+.services-us .icon-boxes .icon-box p {
+  font-size: 15px;
+  color: #657585;
+}
+
 
 /*--------------------------------------------------------------
 # Student Page

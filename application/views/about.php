@@ -43,12 +43,19 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="container" data-aos="fade-in">
-      <h1>Welcome to Advansity IT World</h1>
-      <h2>Our talented team work for making your dream to real</h2>
-      <div class="d-flex align-items-center">
-        <i class="bx bxs-right-arrow-alt get-started-icon"></i>
-        <a href="#about" class="btn-get-started scrollto">Get Started</a>
+      <div class="row">
+        <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="fade-up">
+          <h1>Advance + Diversity</h1>
+          <p>We are dynamic team and our aim is to give something advance & different to clients and students.</p>
+          <h2>You talk we do - our result</h2>
+          <p>ADVANSITY IT WORLD has been started to provide quality training and work to young aspirant students and clients, who wish to become professionals in the IT industry. We want to create new standards of edutainment teaching in computer and it sector, which inspires many students and clients, and helps them to achieve their dreams in the technological world with ease. We strive to understand your goal first.</p>
+          <div class="d-flex align-items-center">
+            <i class="bx bxs-right-arrow-alt get-started-icon"></i>
+            <a href="#about" class="btn-get-started scrollto">Get Started</a>
+          </div>
+        </div>
       </div>
+
     </div>
   </section><!-- End Hero -->
 
