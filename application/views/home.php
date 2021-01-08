@@ -555,17 +555,17 @@
     <!-- End Team Section -->
 
     <!-- ======= courses Section ======= -->
-    <section id="courses" class="courses">
+    <section id="courses" class="courses ">
       <div class="container ">
 
         <div class="section-title">
           <h2 data-aos="fade-up">Courses</h2>
           <p data-aos="fade-up">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
+      <div class="owl-carousel courses-carousel">
+        <!-- <div class="row"> -->
 
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6 " data-aos="fade-up">
+          <div class="" data-aos="fade-up">
             <div class="box">
               <h3>Web Designing & Development</h3>
               <h4>1<span> year</span></h4>
@@ -580,7 +580,7 @@
           </div>
           
 
-          <div class="col-lg-3 col-md-6" data-aos="fade-up">
+          <div class="" data-aos="fade-up">
             <div class="box">
               <h3>Graphic Designing</h3>
               <h4>6<span> month</span></h4>
@@ -595,7 +595,7 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
+          <div class="" data-aos="fade-up" data-aos-delay="200">
             <div class="box">
               <h3>Mobile Developement</h3>
               <h4>1<span> year</span></h4>
@@ -609,7 +609,7 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="300">
+          <div class="" data-aos="fade-up" data-aos-delay="300">
             <div class="box">
               <span class="advanced">New</span>
               <h3>Flutter Development</h3>
@@ -624,11 +624,26 @@
             </div>
           </div>
 
+          <div class="" data-aos="fade-up" data-aos-delay="300">
+            <div class="box">
+              <span class="advanced">New</span>
+              <h3>Dot Net Development</h3>
+              <h4>1<span> year</span></h4>
+              <ul>
+                <li>Introduction</li>
+                <li>Installtion</li>
+                <li>Dart Language</li>
+                <li>Designing</li>
+                <li>Flutter Application</li>
+              </ul>
+            </div>
+          </div>
+        <!-- </div> -->
+      </div>
+
           <div class="btn-wrap">
             <a href="#" class="btn-buy">See More</a>
           </div>
-
-        </div>
 
       </div>
     </section><!-- End Pricing Section -->

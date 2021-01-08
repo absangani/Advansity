@@ -173,31 +173,49 @@
         </div>
 
         <div class="row">
-          <div class="col-md-4" data-aos="fade-up" data-aos-delay="">
+          <div class="col" data-aos="fade-up" data-aos-delay="">
             <div class="feature-1 text-center">
               <div class="wrap-icon icon-1">
                 <span class="icon la la-users"></span>
               </div>
-              <h3 class="mb-3">Explore Your Team</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p>
+              <h3 class="mb-3">Web Designing & Development</h3>
+              <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p> -->
             </div>
           </div>
-          <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
+          <div class="col" data-aos="fade-up" data-aos-delay="100">
             <div class="feature-1 text-center">
               <div class="wrap-icon icon-1">
                 <span class="icon la la-toggle-off"></span>
               </div>
-              <h3 class="mb-3">Digital Whiteboard</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p>
+              <h3 class="mb-3">Graphic Designing</h3>
+              <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p> -->
             </div>
           </div>
-          <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
+          <div class="col" data-aos="fade-up" data-aos-delay="200">
             <div class="feature-1 text-center">
               <div class="wrap-icon icon-1">
                 <span class="icon la la-umbrella"></span>
               </div>
-              <h3 class="mb-3">Design To Development</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p>
+              <h3 class="mb-3">Mobile Developement</h3>
+              <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p> -->
+            </div>
+          </div>
+          <div class="col" data-aos="fade-up" data-aos-delay="200">
+            <div class="feature-1 text-center">
+              <div class="wrap-icon icon-1">
+                <span class="icon la la-umbrella"></span>
+              </div>
+              <h3 class="mb-3">Flutter Development</h3>
+              <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p> -->
+            </div>
+          </div>
+          <div class="col" data-aos="fade-up" data-aos-delay="200">
+            <div class="feature-1 text-center">
+              <div class="wrap-icon icon-1">
+                <span class="icon la la-umbrella"></span>
+              </div>
+              <h3 class="mb-3">Dot Net Development</h3>
+              <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p> -->
             </div>
           </div>
         </div>

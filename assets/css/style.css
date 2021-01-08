@@ -1914,7 +1914,7 @@ section {
   margin: 25px 10px 25px 10px;
   background: #212521;
   text-align: center;
-  box-shadow: 0px 0px 30px #584df1;
+  box-shadow: 0px 0px 30px #584df183;
   border-radius: 5px;
   position: relative;
   overflow: hidden;
@@ -1981,13 +1981,14 @@ section {
 
 .courses .btn-wrap {
   margin: 40px 0px;
-  padding: 20px 20px;
-  background: #292a4c;
+  /* padding: 20px 20px; */
+  /* background: #292a4c; */
   text-align: center;
-  box-shadow: 3px 0px 7px #c8e8ffcd;
+  /* box-shadow: 3px 0px 7px #c8e8ffcd; */
 }
 
 .courses .btn-buy {
+  letter-spacing: 1px;
   background: #e2f3ff;
   display: inline-block;
   padding: 8px 35px 8px 35px;
@@ -2000,6 +2001,8 @@ section {
   font-weight: 600;
   box-shadow: 0 3px 7px #8c21ff66;
   transition: 0.3s;
+  z-index: 4;
+
 }
 
 .courses .btn-buy:hover {
