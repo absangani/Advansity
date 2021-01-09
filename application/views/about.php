@@ -47,12 +47,12 @@
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="fade-up">
           <h1>Advance + Diversity</h1>
           <p>We are dynamic team and our aim is to give something advance & different to clients and students.</p>
-          <h2>You talk we do - our result</h2>
+          <h2>     You talk we do - our result</h2>
           <p>ADVANSITY IT WORLD has been started to provide quality training and work to young aspirant students and clients, who wish to become professionals in the IT industry. We want to create new standards of edutainment teaching in computer and it sector, which inspires many students and clients, and helps them to achieve their dreams in the technological world with ease. We strive to understand your goal first.</p>
-          <div class="d-flex align-items-center">
+          <!-- <div class="d-flex align-items-center">
             <i class="bx bxs-right-arrow-alt get-started-icon"></i>
             <a href="#about" class="btn-get-started scrollto">Get Started</a>
-          </div>
+          </div> -->
         </div>
       </div>
 
@@ -70,8 +70,8 @@
             <div class="content" style="background-image: url(assets/img/values-1.jpg);">
               <!-- <div class="card-body"> -->
                 <h5 class="card-title"><a href="">Our Mission</a></h5>
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua.</p>
-                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
+                <p class="card-text">To acclerated the world towards the direction of ADVANCE digitally and to buzz them off from the wrong opinion.</p>
+                <!-- <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div> -->
               <!-- </div> -->
             </div>
           </div>
@@ -80,7 +80,7 @@
               <!-- <div class="card-body"> -->
                 <h5 class="card-title"><a href="">Our Plan</a></h5>
                 <p class="card-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem.</p>
-                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
+                <!-- <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div> -->
               <!-- </div> -->
             </div>
 
@@ -89,8 +89,8 @@
             <div class="content" style="background-image: url(assets/img/values-3.jpg);">
               <!-- <div class="card-body"> -->
                 <h5 class="card-title"><a href="">Our Vision</a></h5>
-                <p class="card-text">Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores.</p>
-                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
+                <p class="card-text">We are flashing out the vision on the world to put the higher level version or the upgraded level acknowledgement to keep the people forward digital world.</p>
+                <!-- <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div> -->
               <!-- </div> -->
             </div>
           </div>
@@ -98,8 +98,8 @@
             <div class="content" style="background-image: url(assets/img/values-4.jpg);">
               <!-- <div class="card-body"> -->
                 <h5 class="card-title"><a href="">Our Care</a></h5>
-                <p class="card-text">Nostrum eum sed et autem dolorum perspiciatis. Magni porro quisquam laudantium voluptatem.</p>
-                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
+                <p class="card-text">We feel an organizational ability to learn and translate that learning into practical life rapidly.</p>
+                <!-- <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div> -->
               <!-- </div> -->
             </div>
           </div>

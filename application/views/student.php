@@ -102,26 +102,26 @@
             <ul class="nav nav-tabs flex-column">
               <li class="nav-item" data-aos="fade-up">
                 <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">
-                  <h4>Modi sit est</h4>
-                  <p>Quis excepturi porro totam sint earum quo nulla perspiciatis eius.</p>
+                  <h4>Upgrade version of technical courses</h4>
+                  <!-- <p>Quis excepturi porro totam sint earum quo nulla perspiciatis eius.</p> -->
                 </a>
               </li>
               <li class="nav-item mt-2" data-aos="fade-up" data-aos-delay="100">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-2">
-                  <h4>Unde praesentium sed</h4>
-                  <p>Voluptas vel esse repudiandae quo excepturi.</p>
+                  <h4>Afforadble fees</h4>
+                  <!-- <p>Voluptas vel esse repudiandae quo excepturi.</p> -->
                 </a>
               </li>
               <li class="nav-item mt-2" data-aos="fade-up" data-aos-delay="200">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-3">
-                  <h4>Pariatur explicabo vel</h4>
-                  <p>Velit veniam ipsa sit nihil blanditiis mollitia natus.</p>
+                  <h4>Expert / Guest session</h4>
+                  <!-- <p>Velit veniam ipsa sit nihil blanditiis mollitia natus.</p> -->
                 </a>
               </li>
               <li class="nav-item mt-2" data-aos="fade-up" data-aos-delay="300">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-4">
-                  <h4>Nostrum qui quasi</h4>
-                  <p>Ratione hic sapiente nostrum doloremque illum nulla praesentium id</p>
+                  <h4>Free internship</h4>
+                  <!-- <p>Ratione hic sapiente nostrum doloremque illum nulla praesentium id</p> -->
                 </a>
               </li>
             </ul>
@@ -162,7 +162,7 @@
 
         <div class="section-title">
           <h2 data-aos="fade-up">Courses</h2>
-          <p data-aos="fade-up">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <!-- <p data-aos="fade-up">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
         <div class="row">
           <div class="owl-carousel courses-carousel">

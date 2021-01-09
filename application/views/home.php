@@ -73,8 +73,7 @@
             <div class="content">
               <h3>Why Choose Advansity ?</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                Asperiores dolores sed et. Tenetur quia eos. Autem tempore quibusdam vel necessitatibus optio ad corporis.
+                We acclerating you to becoming forward in to the IT world and forming you to the advance version technology. You are able to go through the live with all technology.
               </p>
               <div class="text-center">
                 <a href="#" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
@@ -87,21 +86,21 @@
                 <div class="col-xl-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-receipt"></i>
-                    <h4>We provide fast and secure service</h4>
+                    <h4>We provide advance and secure service.</h4>
                     <!-- <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p> -->
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-cube-alt"></i>
-                    <h4>We provide life time memmber ship with us</h4>
+                    <h4>We provide you qualitise IT work.</h4>
                     <!-- <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p> -->
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="bx bx-images"></i>
-                    <h4>Chance to Learn with company base projects</h4>
+                    <h4>Chance to Learn with internship program.</h4>
                     <!-- <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p> -->
                   </div>
                 </div>
@@ -124,25 +123,25 @@
 
           <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
             <h4 data-aos="fade-up">About us</h4>
-            <h3 data-aos="fade-up">As an IT service provider we help to increase your business in online field and as IT academy we teach to develop software.  </h3>
+            <h3 data-aos="fade-up">As an IT service provider we help to increase your business in online field and as IT academy we teach to development of software.  </h3>
             <!-- <p data-aos="fade-up">Esse voluptas cumque vel exercitationem. Reiciendis est hic accusamus. Non ipsam et sed minima temporibus laudantium. Soluta voluptate sed facere corporis dolores excepturi. Libero laboriosam sint et id nulla tenetur. Suscipit aut voluptate.</p> -->
 
             <div class="icon-box" data-aos="fade-up">
               <div class="icon"><i class="fas fa-graduation-cap"></i></div>
               <h4 class="title"><a href="">student service</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <p class="description">We believe in offering the best possible services to students and in supporting them to complete courses.</p>
             </div>
 
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="fa fa-laptop-code"></i></div>
               <h4 class="title"><a href="">Business service</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+              <p class="description">To make you number one frim in world wide reputation, We give you digital market.</p>
             </div>
 
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="fa fa-users"></i></div>
               <h4 class="title"><a href="">Our team</a></h4>
-              <p class="description">Explicabo est voluptatum asperiores consequatur magnam. Et veritatis odit. Sunt aut deserunt minus aut eligendi omnis</p>
+              <p class="description">Each member of our team is giving you down to top approches on based of information and the inspirtion to go forward.</p>
             </div>
 
           </div>
@@ -183,22 +182,21 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up">
             <div class="icon-box">
               <div class="icon"><i class="fa fa-book-open"></i></div>
-              <h4 class="title"><a href="">Best Courses</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <h4 class="title"><a href="">Technical Courses</a></h4>
+              <p class="description">For those savvy people, we have listed down the top technical courses to get a job in IT.</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="icofont-chart-bar-graph"></i></div>
-              <h4 class="title"><a href="">company base learning</a></h4>
-              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
-            </div>
-          </div>
+              <h4 class="title"><a href="">Company base learning</a></h4>
+              <p class="description">We give you an oppertunity to learn the technical courses with live project based on company level.</p>
+            </div> </div>
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="fa fa-chalkboard-teacher"></i></div>
-              <h4 class="title"><a href="">free internship</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+              <h4 class="title"><a href="">Free internship</a></h4>
+              <p class="description">Student can also get work, related to there courses. The internship is done with mentor training.</p>
             </div>
           </div>
         </div>
@@ -210,22 +208,22 @@
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="fa fa-code"></i></div>
-              <h4 class="title"><a href="">software Development</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <h4 class="title"><a href="">Software Development</a></h4>
+              <p class="description">Our IT world providing you an advance and upgraded version technology. Creation of website, mobile application, templates or graphics etc. </p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
             <div class="icon-box">
               <div class="icon"><i class="fa fa-user-shield"></i></div>
-              <h4 class="title"><a href="">free Services</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+              <h4 class="title"><a href="">Free Services</a></h4>
+              <p class="description">All the facilities and services are provide by us on based of your project or work with T&c*.</p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
             <div class="icon-box">
               <div class="icon"><i class="fa fa-ad"></i></div>
-              <h4 class="title"><a href="">online marketing</a></h4>
-              <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+              <h4 class="title"><a href="">Digital marketing</a></h4>
+              <p class="description">We providing you here the whole digital market as in services like, SEO, Video campaigning, Social media marketing, Social video campaign.</p>
             </div>
           </div>
         </div>
