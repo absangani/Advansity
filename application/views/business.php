@@ -24,6 +24,7 @@
   <link href="<?php echo base_url();?>assets/vendor/venobox/venobox.css" rel="stylesheet">
   <link href="<?php echo base_url();?>assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="<?php echo base_url();?>assets/vendor/aos/aos.css" rel="stylesheet">
+  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 
   <!-- Template Main CSS File -->
   <link href="<?php echo base_url();?>assets/css/style.css" rel="stylesheet">
@@ -51,23 +52,10 @@
             <h2>Our talented team work for making your dream to real</h2>
           </div>
         </div>
-        <!-- <div class="d-flex align-items-center">
-          <i class="bx bxs-right-arrow-alt get-started-icon"></i>
-          <a href="#about" class="btn-get-started scrollto">Get Started</a>
-        </div> -->
-        <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left">
-          <img src="assets/images/gif.gif" class="img-fluid" alt="">
+        <div id="teacher-section" class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left">
+          <lottie-player src="https://assets10.lottiefiles.com/packages/lf20_qdiq7qa5.json"  background="rgba(0, 0, 0, 0)"  speed="1"  style="width: 660px; height: 600px;"  loop autoplay></lottie-player>
         </div>
       </div>
-    </div>
-    <div class="wave">
-      <svg width="100%" height="355px" viewBox="0 0 1920 355" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-        <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-          <g id="Apple-TV" transform="translate(0.000000, -402.000000)" fill="#FFFFFF">
-            <path d="M0,439.134243 C175.04074,464.89273 327.944386,477.771974 458.710937,477.771974 C654.860765,477.771974 870.645295,442.632362 1205.9828,410.192501 C1429.54114,388.565926 1667.54687,411.092417 1920,477.771974 L1920,757 L1017.15166,757 L0,757 L0,439.134243 Z" id="Path"></path>
-          </g>
-        </g>
-      </svg>
     </div>
   </section><!-- End Hero -->
 

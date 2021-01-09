@@ -24,6 +24,9 @@
   <link href="<?php echo base_url();?>assets/vendor/venobox/venobox.css" rel="stylesheet">
   <link href="<?php echo base_url();?>assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="<?php echo base_url();?>assets/vendor/aos/aos.css" rel="stylesheet">
+  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+  
+
 
   <!-- Template Main CSS File -->
   <link href="<?php echo base_url();?>assets/css/style.css" rel="stylesheet">
@@ -44,11 +47,17 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="container" data-aos="fade-in">
-      <h1>Welcome to Advansity IT World  Student </h1>
-      <h2>Our talented team work for making your dream to real</h2>
-      <div class="d-flex align-items-center">
-        <i class="bx bxs-right-arrow-alt get-started-icon"></i>
-        <a href="#about" class="btn-get-started scrollto">Get Started</a>
+      <div class="row">
+        <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="fade-up">
+          <div>
+            <h1>Welcome to <br>Advansity IT World</h1>
+            <h2>Our talented team work for making your dream to real</h2>
+          </div>
+        </div>
+        <div id="teacher-section" class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left">
+          <!-- <img src="assets/images/teacher_student_page.gif" class="img-fluid" alt=""> -->
+          <lottie-player src="https://assets10.lottiefiles.com/private_files/lf30_Fy9W8c.json"  background="rgba(0, 0, 0, 0)"  speed="1"  style="width: 660px; height: 600px;"  loop autoplay></lottie-player>
+        </div>
       </div>
     </div>
   </section><!-- End Hero -->
@@ -130,22 +139,22 @@
             <div class="tab-content">
               <div class="tab-pane active show" id="tab-1">
                 <figure>
-                  <img src="assets/img/features-1.png" alt="" class="img-fluid">
+                  <img src="assets/images/student_f_3.png" alt="" class="img-fluid">
                 </figure>
               </div>
               <div class="tab-pane" id="tab-2">
                 <figure>
-                  <img src="assets/img/features-2.png" alt="" class="img-fluid">
+                  <img src="assets/images/student_f_2.png" alt="" class="img-fluid">
                 </figure>
               </div>
               <div class="tab-pane" id="tab-3">
                 <figure>
-                  <img src="assets/img/features-3.png" alt="" class="img-fluid">
+                  <img src="assets/images/student_f_4.png" alt="" class="img-fluid">
                 </figure>
               </div>
               <div class="tab-pane" id="tab-4">
                 <figure>
-                  <img src="assets/img/features-4.png" alt="" class="img-fluid">
+                  <img src="assets/images/student_f_1.png" alt="" class="img-fluid">
                 </figure>
               </div>
             </div>
