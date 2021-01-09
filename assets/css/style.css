@@ -381,7 +381,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 60vh;
+  height: 100%;
   background: #e2f3ff;
   background-size: cover;
   position: relative;
@@ -404,14 +404,14 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 2;
 }
 
-.hero .wave {
+/* .hero .wave {
   width: 100%;
   overflow: hidden;
   position: absolute;
   z-index: 1;
   bottom: 150px;
   background: #0f0d0c;
-}
+} */
 
 @media screen and (max-width: 992px) {
   .hero .wave {
@@ -2327,7 +2327,7 @@ background: #212529;
 # business Page
 --------------------------------------------------------------*/
 .services-us {
-  padding: 20px 0 30px 0;
+  padding: 60px 0 30px 0;
   position: relative;
   z-index: 3;
 }
@@ -2407,7 +2407,40 @@ background: #212529;
 /*--------------------------------------------------------------
 # Student Page
 --------------------------------------------------------------*/
+.student-bg {
+  /* height: 100px !important; */
+  background: url("../images/student bg.jpg") no-repeat !important;
+}
 
+.student-bg::before{
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.student-bg h1 {
+  color: #c8e8ff !important;
+}
+
+.student-bg h2 {
+  color: #c8e8ff !important;
+}
+
+
+#teacher-section lottie-player {
+  width: 100% !important;
+  margin: 0px 0px 0px 0px !important;
+}
+
+@media (max-width: 768px) {
+  #teacher-section lottie-player {
+    height: 350px !important;
+  }
+}
+
+@media (max-height: 640px) {
+  #teacher-section lottie-player {
+    height: 350px !important;
+  }
+}
 /*--------------------------------------------------------------
 # Features
 --------------------------------------------------------------*/
@@ -2491,9 +2524,11 @@ background: #212529;
  New Section
  --------------------------------------------------------------*/
  .section-heading {
-  font-size: 3rem;
+  font-family: "Poppins", sans-serif;
+  font-size: 32px;
+  
   font-weight: 700;
-  background: linear-gradient(-45deg, #3db3c5, #274685);
+  background: linear-gradient(-45deg, #c8e8ff, #e2f3ff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -2508,7 +2543,7 @@ background: #212529;
 }
 
 .feature-1 .wrap-icon.icon-1 {
-  background: linear-gradient(-45deg, #3b87bd, #2d71a2);
+  background: linear-gradient(-45deg, #584df1, #2d71a2);
 }
 
 .feature-1 .wrap-icon .icon {
