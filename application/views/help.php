@@ -48,8 +48,8 @@
       <div class="container">
 
         <div class="section-title">
-          <h2 data-aos="fade-up">F.A.Q</h2>
-          <p data-aos="fade-up">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2 data-aos="fade-up">Frequently Asked Questions...</h2>
+          <p data-aos="fade-up">Find Quickly</p>
         </div>
 
         <div class="faq-list">
@@ -101,9 +101,9 @@
 
           </ul>
         </div>
-        <div class="text-center">
+        <!-- <div class="text-center">
             <a class="Tc-link" href=""> <i class="bx bx-help-circle icon-help"></i> Term & Conditions</a>
-        </div>
+        </div> -->
       </div>
     </section>
     <!-- End F.A.Q Section -->

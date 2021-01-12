@@ -129,11 +129,11 @@
 
 
     <!-- ======= Services Section ======= -->
-    <section id="aboutServices" class="aboutServices">
+    <!-- <section id="aboutServices" class="aboutServices">
       <div class="container">
         <div class="section-title" data-aos="fade-up">
           <h2 class="pb-4">Student Services</h2>
-          <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
+          
         </div>
 
         <div class="row">
@@ -141,7 +141,7 @@
             <div id="box1" class="icon-box">
               <div class="icon"><i class="fa fa-book-open"></i></div>
               <h4 class="title"><a href="">Best Courses</a></h4>
-              <!-- <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p> -->
+              
             </div>
             <div id="ovr1" class="upper-box">
               <div class="icon"><i class="fa fa-book-open"></i></div>
@@ -188,7 +188,7 @@
         </div>
         <div class="section-title pt-4" data-aos="fade-up">
           <h2 class="pb-4 pt-5">Business Services</h2>
-          <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
+          
         </div>
         <div class="row">
           <div id="main-box5" class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
@@ -242,7 +242,7 @@
         </div>
 
       </div>
-    </section>
+    </section> -->
     <!-- End Services Section -->
     
 
