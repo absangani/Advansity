@@ -71,8 +71,8 @@
               <div class="row mb-5">
                 <div class="col-lg-4 col-md-6 col-sm-12 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon-box">
-                    <div class="row">
-                      <img class="col businessImg" src="assets/images/icon/mobileService.gif">
+                    <div class="row" style="align-items: center !important;">
+                      <img class="businessImg" src="assets/images/icon/webService.gif">
                     </div>
                     <h4 class="mr-5 ml-5">Web Services</h4>
                   </div>
@@ -80,15 +80,15 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon-box">
                     <div class="row">
-                      <img class="col businessImg" src="assets/images/icon/mobileService.gif">
+                      <img class="businessImg" src="assets/images/icon/mobileService.gif">
                     </div>
                     <h4 class="mr-5 ml-5">Application Services</h4>
                   </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                   <div class="icon-box ">
-                    <div class="row" style="align-items: center !important;">
-                      <img class="col businessImg" src="assets/images/icon/GraphicService.gif">
+                    <div class="row" style="align-items: center !important; vertical-align: -webkit-baseline-middle !important;">
+                      <img class="businessImg" src="assets/images/icon/GraphicService_2.gif">
                     </div>
                     <h4 class="mr-5 ml-5">Graphic Service</h4>
                   </div>
