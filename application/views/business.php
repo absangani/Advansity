@@ -274,7 +274,7 @@
     <!-- End Values Section -->
 
     <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="testimonials">
+    <!-- <section id="testimonials" class="testimonials">
       <div class="container" data-aos="fade-up">
 
         <div class="owl-carousel testimonials-carousel">
@@ -337,7 +337,8 @@
         </div>
 
       </div>
-    </section><!-- End Testimonials Section -->
+    </section> -->
+    <!-- End Testimonials Section -->
 
     <!-- ======= Portfolio Section ======= -->
     <!-- <section id="portfolio" class="portfolio">
