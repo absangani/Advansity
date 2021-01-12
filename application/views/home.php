@@ -85,21 +85,21 @@
               <div class="row">
                 <div class="col-xl-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                   <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-receipt"></i>
+                    <i class="fa fa-user-shield"></i>
                     <h4>We provide advance and secure service.</h4>
                     <!-- <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p> -->
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                   <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-cube-alt"></i>
+                    <i class="fa fa-briefcase"></i>
                     <h4>We provide you qualitise IT work.</h4>
                     <!-- <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p> -->
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
                   <div class="icon-box mt-4 mt-xl-0">
-                    <i class="bx bx-images"></i>
+                    <i class="fa fa-chalkboard-teacher"></i>
                     <h4>Chance to Learn with internship program.</h4>
                     <!-- <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p> -->
                   </div>
@@ -127,21 +127,27 @@
             <!-- <p data-aos="fade-up">Esse voluptas cumque vel exercitationem. Reiciendis est hic accusamus. Non ipsam et sed minima temporibus laudantium. Soluta voluptate sed facere corporis dolores excepturi. Libero laboriosam sint et id nulla tenetur. Suscipit aut voluptate.</p> -->
 
             <div class="icon-box" data-aos="fade-up">
-              <div class="icon"><i class="fas fa-graduation-cap"></i></div>
-              <h4 class="title"><a href="">student service</a></h4>
-              <p class="description">We believe in offering the best possible services to students and in supporting them to complete courses.</p>
+              <a href="<?php echo base_url();?>Student">
+                <div class="icon"><i class="fas fa-graduation-cap"></i></div>
+                <h4 class="title">student service</h4>
+                <p class="description">We believe in offering the best possible services to students and in supporting them to complete courses. <br><b>See More ...</b></p>
+              </a>
             </div>
 
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-              <div class="icon"><i class="fa fa-laptop-code"></i></div>
-              <h4 class="title"><a href="">Business service</a></h4>
-              <p class="description">To make you number one frim in world wide reputation, We give you digital market.</p>
+              <a href="<?php echo base_url();?>Business">
+                <div class="icon"><i class="fa fa-laptop-code"></i></div>
+                <h4 class="title">Business service</h4>
+                <p class="description">To make you number one frim in world wide reputation, We give you digital market.<br><b>See More ...</b></p>
+              </a>
             </div>
 
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-              <div class="icon"><i class="fa fa-users"></i></div>
-              <h4 class="title"><a href="">Our team</a></h4>
-              <p class="description">Each member of our team is giving you down to top approches on based of information and the inspirtion to go forward.</p>
+              <a href="<?php echo base_url();?>About">
+                <div class="icon"><i class="fa fa-users"></i></div>
+                <h4 class="title">Our team</h4>
+                <p class="description">Each member of our team is giving you down to top approches on based of information and the inspirtion to go forward.<br><b>See More ...</b></p>
+              </a>
             </div>
 
           </div>
@@ -150,134 +156,65 @@
       </div>
     </section><!-- End About Section -->
 
-    <!-- ======= Clients Section ======= -->
-    <!-- <section id="clients" class="clients">
-      <div class="container" data-aos="fade-up">
 
-        <div class="owl-carousel clients-carousel">
-          <img src="assets/img/clients/client-1.png" alt="">
-          <img src="assets/img/clients/client-2.png" alt="">
-          <img src="assets/img/clients/client-3.png" alt="">
-          <img src="assets/img/clients/client-4.png" alt="">
-          <img src="assets/img/clients/client-5.png" alt="">
-          <img src="assets/img/clients/client-6.png" alt="">
-          <img src="assets/img/clients/client-7.png" alt="">
-          <img src="assets/img/clients/client-8.png" alt="">
-        </div>
-
-      </div>
-    </section> -->
-    <!-- End Clients Section -->
-
-    <!-- ======= Services Section ======= -->
-    <section id="services" class="services section-bg">
+    <!-- new section -->
+    <section class="section">
       <div class="container">
 
-        <div class="section-title pb-5" data-aos="fade-up">
-          <h2>Student Services</h2>
-          <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
-        </div>
-
-        <div class="row">
-          <div class="col-lg-4 col-md-6" data-aos="fade-up">
-            <div class="icon-box">
-              <div class="icon"><i class="fa fa-book-open"></i></div>
-              <h4 class="title"><a href="">Technical Courses</a></h4>
-              <p class="description">For those savvy people, we have listed down the top technical courses to get a job in IT.</p>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon-box">
-              <div class="icon"><i class="icofont-chart-bar-graph"></i></div>
-              <h4 class="title"><a href="">Company base learning</a></h4>
-              <p class="description">We give you an oppertunity to learn the technical courses with live project based on company level.</p>
-            </div> </div>
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon-box">
-              <div class="icon"><i class="fa fa-chalkboard-teacher"></i></div>
-              <h4 class="title"><a href="">Free internship</a></h4>
-              <p class="description">Student can also get work, related to there courses. The internship is done with mentor training.</p>
-            </div>
-          </div>
-        </div>
-        <div class="section-title pt-5 pb-5" data-aos="fade-up">
-          <h2>Business Services</h2>
-          <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
-        </div>
-        <div class="row">
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon-box">
-              <div class="icon"><i class="fa fa-code"></i></div>
-              <h4 class="title"><a href="">Software Development</a></h4>
-              <p class="description">Our IT world providing you an advance and upgraded version technology. Creation of website, mobile application, templates or graphics etc. </p>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
-            <div class="icon-box">
-              <div class="icon"><i class="fa fa-user-shield"></i></div>
-              <h4 class="title"><a href="">Free Services</a></h4>
-              <p class="description">All the facilities and services are provide by us on based of your project or work with T&c*.</p>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
-            <div class="icon-box">
-              <div class="icon"><i class="fa fa-ad"></i></div>
-              <h4 class="title"><a href="">Digital marketing</a></h4>
-              <p class="description">We providing you here the whole digital market as in services like, SEO, Video campaigning, Social media marketing, Social video campaign.</p>
-            </div>
+        <div class="row justify-content-center text-center mb-5">
+          <div class="col-md-5" data-aos="fade-up">
+            <h2 class="section-heading">Courses Details</h2>
           </div>
         </div>
 
+        <div class="row">
+          <div class="col" data-aos="fade-up" data-aos-delay="">
+            <div class="feature-1 text-center">
+              <div class="wrap-icon icon-1">
+                <div class="icon"><i class="fa fa-file-code"></i></div>
+              </div>
+              <h3 class="mb-3">Web Designing & Development</h3>
+            </div>
+          </div>
+          <div class="col" data-aos="fade-up" data-aos-delay="100">
+            <div class="feature-1 text-center">
+              <div class="wrap-icon icon-1">
+                <div class="icon"><img src="assets/images/icon/icons8-drafting-compass-50.png"></div>
+              </div>
+              <h3 class="mb-3">Graphic Designing</h3>
+            </div>
+          </div>
+          <div class="col" data-aos="fade-up" data-aos-delay="200">
+            <div class="feature-1 text-center">
+              <div class="wrap-icon icon-1">
+                <div class="icon"><i class="bx bxl-android"></i></div>
+              </div>
+              <h3 class="mb-3">Mobile Developement</h3>
+            </div>
+          </div>
+          <div class="col" data-aos="fade-up" data-aos-delay="200">
+            <div class="feature-1 text-center">
+              <div class="wrap-icon icon-1">
+                <div class="icon"><img src="assets/images/icon/icons8-flutter-50.png"></div>
+              </div>
+              <h3 class="mb-3">Flutter Development</h3>
+            </div>
+          </div>
+          <div class="col" data-aos="fade-up" data-aos-delay="200">
+            <div class="feature-1 text-center">
+              <div class="wrap-icon icon-1">
+                <div class="icon"><img src="assets/images/icon/icons8-visual-studio-logo-50.png"></div>
+              </div>
+              <h3 class="mb-3">Dot Net Development</h3>
+            </div>
+          </div>
+        </div>
+          <div id="moreCourses" class="col btn-wrap">
+            <a href="#" id="btnMore" class="btn-buy">See More</a>
+          </div>
       </div>
-    </section><!-- End Services Section -->
-
-    <!-- ======= Values Section ======= -->
-    <!-- <section id="values" class="values">
-      <div class="container">
-
-        <div class="row">
-          <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
-            <div class="card" style="background-image: url(assets/img/values-1.jpg);">
-              <div class="card-body">
-                <h5 class="card-title"><a href="">Our Mission</a></h5>
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua.</p>
-                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100">
-            <div class="card" style="background-image: url(assets/img/values-2.jpg);">
-              <div class="card-body">
-                <h5 class="card-title"><a href="">Our Plan</a></h5>
-                <p class="card-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem.</p>
-                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
-              </div>
-            </div>
-
-          </div>
-          <div class="col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up" data-aos-delay="200">
-            <div class="card" style="background-image: url(assets/img/values-3.jpg);">
-              <div class="card-body">
-                <h5 class="card-title"><a href="">Our Vision</a></h5>
-                <p class="card-text">Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores.</p>
-                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up" data-aos-delay="300">
-            <div class="card" style="background-image: url(assets/img/values-4.jpg);">
-              <div class="card-body">
-                <h5 class="card-title"><a href="">Our Care</a></h5>
-                <p class="card-text">Nostrum eum sed et autem dolorum perspiciatis. Magni porro quisquam laudantium voluptatem.</p>
-                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </section> -->
-    <!-- End Values Section -->
+    </section>
+    <!-- end new section -->
 
     <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials">
@@ -344,6 +281,136 @@
 
       </div>
     </section><!-- End Testimonials Section -->
+
+    <!-- ======= Clients Section ======= -->
+    <!-- <section id="clients" class="clients">
+      <div class="container" data-aos="fade-up">
+
+        <div class="owl-carousel clients-carousel">
+          <img src="assets/img/clients/client-1.png" alt="">
+          <img src="assets/img/clients/client-2.png" alt="">
+          <img src="assets/img/clients/client-3.png" alt="">
+          <img src="assets/img/clients/client-4.png" alt="">
+          <img src="assets/img/clients/client-5.png" alt="">
+          <img src="assets/img/clients/client-6.png" alt="">
+          <img src="assets/img/clients/client-7.png" alt="">
+          <img src="assets/img/clients/client-8.png" alt="">
+        </div>
+
+      </div>
+    </section> -->
+    <!-- End Clients Section -->
+
+    <!-- ======= Services Section ======= -->
+    <!-- <section id="services" class="services section-bg">
+      <div class="container">
+
+        <div class="section-title pb-5" data-aos="fade-up">
+          <h2>Student Services</h2>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6" data-aos="fade-up">
+            <div class="icon-box">
+              <div class="icon"><i class="fa fa-book-open"></i></div>
+              <h4 class="title"><a href="">Technical Courses</a></h4>
+              <p class="description">For those savvy people, we have listed down the top technical courses to get a job in IT.</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"><i class="icofont-chart-bar-graph"></i></div>
+              <h4 class="title"><a href="">Company base learning</a></h4>
+              <p class="description">We give you an oppertunity to learn the technical courses with live project based on company level.</p>
+            </div> </div>
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"><i class="fa fa-chalkboard-teacher"></i></div>
+              <h4 class="title"><a href="">Free internship</a></h4>
+              <p class="description">Student can also get work, related to there courses. The internship is done with mentor training.</p>
+            </div>
+          </div>
+        </div>
+        <div class="section-title pt-5 pb-5" data-aos="fade-up">
+          <h2>Business Services</h2>
+        </div>
+        <div class="row">
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"><i class="fa fa-code"></i></div>
+              <h4 class="title"><a href="">Software Development</a></h4>
+              <p class="description">Our IT world providing you an advance and upgraded version technology. Creation of website, mobile application, templates or graphics etc. </p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
+            <div class="icon-box">
+              <div class="icon"><i class="fa fa-user-shield"></i></div>
+              <h4 class="title"><a href="">Free Services</a></h4>
+              <p class="description">All the facilities and services are provide by us on based of your project or work with T&c*.</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+            <div class="icon-box">
+              <div class="icon"><i class="fa fa-ad"></i></div>
+              <h4 class="title"><a href="">Digital marketing</a></h4>
+              <p class="description">We providing you here the whole digital market as in services like, SEO, Video campaigning, Social media marketing, Social video campaign.</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section> -->
+    <!-- End Services Section -->
+
+    <!-- ======= Values Section ======= -->
+    <!-- <section id="values" class="values">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+            <div class="card" style="background-image: url(assets/img/values-1.jpg);">
+              <div class="card-body">
+                <h5 class="card-title"><a href="">Our Mission</a></h5>
+                <p class="card-text">Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua.</p>
+                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100">
+            <div class="card" style="background-image: url(assets/img/values-2.jpg);">
+              <div class="card-body">
+                <h5 class="card-title"><a href="">Our Plan</a></h5>
+                <p class="card-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem.</p>
+                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
+              </div>
+            </div>
+
+          </div>
+          <div class="col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up" data-aos-delay="200">
+            <div class="card" style="background-image: url(assets/img/values-3.jpg);">
+              <div class="card-body">
+                <h5 class="card-title"><a href="">Our Vision</a></h5>
+                <p class="card-text">Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores.</p>
+                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 d-flex align-items-stretch mt-4" data-aos="fade-up" data-aos-delay="300">
+            <div class="card" style="background-image: url(assets/img/values-4.jpg);">
+              <div class="card-body">
+                <h5 class="card-title"><a href="">Our Care</a></h5>
+                <p class="card-text">Nostrum eum sed et autem dolorum perspiciatis. Magni porro quisquam laudantium voluptatem.</p>
+                <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section> -->
+    <!-- End Values Section -->
+
+    
 
     <!-- ======= Portfolio Section ======= -->
     <!-- <section id="portfolio" class="portfolio">
@@ -552,67 +619,7 @@
     </section> -->
     <!-- End Team Section -->
 
-    <!-- new section -->
-    <section class="section">
-      <div class="container">
-
-        <div class="row justify-content-center text-center mb-5">
-          <div class="col-md-5" data-aos="fade-up">
-            <h2 class="section-heading">Courses Details</h2>
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col" data-aos="fade-up" data-aos-delay="">
-            <div class="feature-1 text-center">
-              <div class="wrap-icon icon-1">
-                <span class="icon la la-users"></span>
-              </div>
-              <h3 class="mb-3">Web Designing & Development</h3>
-              <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p> -->
-            </div>
-          </div>
-          <div class="col" data-aos="fade-up" data-aos-delay="100">
-            <div class="feature-1 text-center">
-              <div class="wrap-icon icon-1">
-                <span class="icon la la-toggle-off"></span>
-              </div>
-              <h3 class="mb-3">Graphic Designing</h3>
-              <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p> -->
-            </div>
-          </div>
-          <div class="col" data-aos="fade-up" data-aos-delay="200">
-            <div class="feature-1 text-center">
-              <div class="wrap-icon icon-1">
-                <span class="icon la la-umbrella"></span>
-              </div>
-              <h3 class="mb-3">Mobile Developement</h3>
-              <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p> -->
-            </div>
-          </div>
-          <div class="col" data-aos="fade-up" data-aos-delay="200">
-            <div class="feature-1 text-center">
-              <div class="wrap-icon icon-1">
-                <span class="icon la la-umbrella"></span>
-              </div>
-              <h3 class="mb-3">Flutter Development</h3>
-              <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p> -->
-            </div>
-          </div>
-          <div class="col" data-aos="fade-up" data-aos-delay="200">
-            <div class="feature-1 text-center">
-              <div class="wrap-icon icon-1">
-                <span class="icon la la-umbrella"></span>
-              </div>
-              <h3 class="mb-3">Dot Net Development</h3>
-              <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem, optio.</p> -->
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </section>
-    <!-- end new section -->
+    
 
     <!-- ======= F.A.Q Section ======= -->
     <!-- <section id="faq" class="faq section-bg">
