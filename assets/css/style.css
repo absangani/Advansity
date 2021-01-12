@@ -2008,36 +2008,7 @@ section {
   text-decoration: line-through;
 }
 
-.courses .btn-wrap {
-  margin: 40px 0px;
-  /* padding: 20px 20px; */
-  /* background: #292a4c; */
-  text-align: center;
-  /* box-shadow: 3px 0px 7px #c8e8ffcd; */
-}
 
-.courses .btn-buy {
-  letter-spacing: 1px;
-  background: #e2f3ff;
-  display: inline-block;
-  padding: 8px 35px 8px 35px;
-  border-radius: 4px;
-  color: #212321;
-  transition: none;
-  font-size: 14px;
-  font-weight: 400;
-  font-family: "Raleway", sans-serif;
-  font-weight: 600;
-  box-shadow: 0 3px 7px #8c21ff66;
-  transition: 0.3s;
-  z-index: 4;
-
-}
-
-.courses .btn-buy:hover {
-  background: #c8e8ff;
-  color: #584df1;
-}
 
 .courses .featured h3 {
   color: #fff;
@@ -2378,30 +2349,50 @@ background: #212529;
   margin: 0px 30px 0px 30px;
 }
 
-.services-us .icon-boxes .icon-box i {
-  font-size: 40px;
-  color: #584df1;
-  margin-bottom: 30px;
+.services-us .icon-boxes .icon-box img {
+  height: 170px;
+  /* font-size: 40px; */
+  /* color: #584df1; */
+  /* margin-bottom: 30px; */
+}
+.services-us .icon-boxes .icon-box lottie-player {
+  /* height: 170px; */
+  /* font-size: 40px; */
+  /* color: #584df1; */
+  /* margin-bottom: 30px; */
+  margin: 2px 30px 5px 20px !important;
+}
+
+@media (min-width: 472px),(max-width: 472px) {
+  .services-us .icon-boxes .icon-box{
+    margin: 30px 2px 0px 2px !important;
+  }
 }
 
 .services-us .icon-boxes .icon-box h4 {
   font-size: 20px;
   font-weight: 700;
-  margin: 0 0 30px 0;
+  margin: 30px 0 10px 0;
   color: #554945;
 }
 
-.services-us .icon-boxes .icon-box img {
-  width: 50%;
-  font-size: 20px;
-  font-weight: 700;
-  margin: 0px 0px 10px 0px;
+.services-us .icon-boxes .icon-box div {
+  text-align: center;
 }
 
 .services-us .icon-boxes .icon-box p {
   font-size: 15px;
   color: #657585;
 }
+
+.services-us .icon-boxes .icon-box .col {
+  /* align-items: center !important; */
+  height: 25% !important;
+  width: 25% !important;
+  padding: 40px ;
+}
+
+
 
 
 /*--------------------------------------------------------------
@@ -2463,7 +2454,7 @@ background: #212529;
 }
 
 .features .nav-link h4 {
-  font-size: 18px;
+  font-size: 24px;
   font-weight: 600;
   transition: 0.3s ease-in-out;
   color: #576971;
@@ -2496,6 +2487,10 @@ background: #212529;
 .features .tab-pane.active {
   -webkit-animation: slide-down 0.5s ease-out;
   animation: slide-down 0.5s ease-out;
+}
+
+.features .tab-pane.active img {
+  padding: 0px 40px 20px 12px;
 }
 
 .features .tab-content {
@@ -2551,8 +2546,8 @@ background: #212529;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: #fff;
-  font-size: 2.5rem;
+  color: #000;
+  font-size: 3rem;
 }
 
 .feature-1 h3 {
@@ -2562,6 +2557,34 @@ background: #212529;
 
 .feature-1 p {
   color: #b1b1b1;
+}
+
+#moreCourses {
+  margin: 40px 0px;
+  text-align: center;
+}
+
+#btnMore {
+  letter-spacing: 1px;
+  background: #e2f3ff;
+  display: inline-block;
+  padding: 8px 35px 8px 35px;
+  border-radius: 4px;
+  color: #212321;
+  transition: none;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Raleway", sans-serif;
+  font-weight: 600;
+  box-shadow: 0 3px 7px #8c21ff66;
+  transition: 0.3s;
+  z-index: 4;
+
+}
+
+#btnMore:hover {
+  background: #c8e8ff;
+  color: #584df1;
 }
 
 /*--------------------------------------------------------------

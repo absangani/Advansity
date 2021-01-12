@@ -72,26 +72,29 @@
           <div class=" d-flex">
             <div class="icon-boxes d-flex flex-column justify-content-center">
               <div class="row mb-5">
-                <div class="col d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon-box mt-4 mt-xl-0">
-                    <img src="assets/images/gif.gif" alt="">
-                    <h4>We provide fast and secure service</h4>
-                    <!-- <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p> -->
+                <div class="col-lg-4 col-md-6 col-sm-12 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon-box">
+                    <div class="row">
+                      <img src="assets/images/icon/tumblr_inline_onjbykfjMQ1sndsvm_540.gif">
+                    </div>
+                    
+                    <h4 class="mr-5 ml-5">(lab</h4>
                   </div>
                 </div>
-                <div class="col d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon-box mt-4 mt-xl-0">
-                    <!-- <i class="bx bx-receipt"></i> -->
-                    <img src="assets/images/gif.gif" alt="">
-                    <h4>We provide fast and secure service</h4>
-                    <!-- <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p> -->
+                <div class="col-lg-4 col-md-6 col-sm-12 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon-box">
+                    <div class="row">
+                      <img src="assets/images/icon/dribbble-gif.gif">
+                    </div>
+                    <h4 class="mr-5 ml-5">We provide life time memmber (Exam)</h4>
                   </div>
                 </div>
-                <div class="col d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-                  <div class="icon-box mt-4 mt-xl-0">
-                  <img src="assets/images/gif.gif" alt="">
-                    <h4>We provide life time memmber ship with us</h4>
-                    <!-- <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p> -->
+                <div class="col-lg-4 col-md-6 col-sm-12 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+                  <div class="icon-box">
+                    <div class="row">
+                      <img src="assets/images/icon/tenor.gif">
+                    </div>
+                    <h4 class="mr-5 ml-5">certification)</h4>
                   </div>
                 </div>
               </div>
@@ -110,49 +113,45 @@
           <div class="col-lg-6 mt-2 mb-tg-0 order-2 order-lg-1">
             <ul class="nav nav-tabs flex-column">
               <li class="nav-item" data-aos="fade-up">
-                <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">
+                <a id="tab-1" class="nav-link  active show" data-bs-toggle="tab" href="#tab-1-img">
                   <h4>Upgrade version of technical courses</h4>
-                  <!-- <p>Quis excepturi porro totam sint earum quo nulla perspiciatis eius.</p> -->
                 </a>
               </li>
-              <li class="nav-item mt-2" data-aos="fade-up" data-aos-delay="100">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-2">
+              <li class="nav-item  mt-4" data-aos="fade-up" data-aos-delay="100">
+                <a id="tab-2" class="nav-link" data-bs-toggle="tab" href="#tab-2">
                   <h4>Afforadble fees</h4>
-                  <!-- <p>Voluptas vel esse repudiandae quo excepturi.</p> -->
                 </a>
               </li>
-              <li class="nav-item mt-2" data-aos="fade-up" data-aos-delay="200">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-3">
+              <li class="nav-item mt-4" data-aos="fade-up" data-aos-delay="200">
+                <a id="tab-3" class="nav-link" data-bs-toggle="tab" href="#tab-3">
                   <h4>Expert / Guest session</h4>
-                  <!-- <p>Velit veniam ipsa sit nihil blanditiis mollitia natus.</p> -->
                 </a>
               </li>
-              <li class="nav-item mt-2" data-aos="fade-up" data-aos-delay="300">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-4">
+              <li class="nav-item mt-4" data-aos="fade-up" data-aos-delay="300">
+                <a id="tab-4" class="nav-link" data-bs-toggle="tab" href="#tab-4">
                   <h4>Free internship</h4>
-                  <!-- <p>Ratione hic sapiente nostrum doloremque illum nulla praesentium id</p> -->
                 </a>
               </li>
             </ul>
           </div>
           <div class="col-lg-6 order-1 order-lg-2" data-aos="zoom-in">
             <div class="tab-content">
-              <div class="tab-pane active show" id="tab-1">
+              <div class="tab-pane active show" id="tab-1-img">
                 <figure>
                   <img src="assets/images/student_f_3.png" alt="" class="img-fluid">
                 </figure>
               </div>
-              <div class="tab-pane" id="tab-2">
+              <div class="tab-pane" id="tab-2-img">
                 <figure>
                   <img src="assets/images/student_f_2.png" alt="" class="img-fluid">
                 </figure>
               </div>
-              <div class="tab-pane" id="tab-3">
+              <div class="tab-pane" id="tab-3-img">
                 <figure>
                   <img src="assets/images/student_f_4.png" alt="" class="img-fluid">
                 </figure>
               </div>
-              <div class="tab-pane" id="tab-4">
+              <div class="tab-pane" id="tab-4-img">
                 <figure>
                   <img src="assets/images/student_f_1.png" alt="" class="img-fluid">
                 </figure>
@@ -256,10 +255,7 @@
           </div>
         </div>
 
-          <div class="btn-wrap">
-            <a href="#" class="btn-buy">See More</a>
-          </div>
-
+          
       </div>
     </section><!-- End Pricing Section -->
 

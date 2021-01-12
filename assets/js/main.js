@@ -226,6 +226,30 @@
     items: 1
   });
 
+$(".nav-item").mouseenter(function(){
+    
+  $(".nav-link").each(function(){
+    if($(this).hasClass("active show")){
+        $(this).removeClass("active show");
+    }
+  });
+  $(this).children('a').addClass("active show");
+});
+
+
+  //student page tab images
+$(".nav-item").mouseenter(function(){
+  
+  $(".tab-pane").each(function(){
+    if($(this).hasClass("active")){
+        $(this).removeClass("active");
+    }
+  });
+  var aID = $(this).children('a').attr("id");
+  $("#"+aID+"-img").addClass("active");
+  var newID = $("#"+aID+"-img").attr("class");
+});
+
   // Init AOS
   function aos_init() {
     AOS.init({

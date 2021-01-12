@@ -69,26 +69,28 @@
           <div class=" d-flex">
             <div class="icon-boxes d-flex flex-column justify-content-center">
               <div class="row mb-5">
-                <div class="col d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon-box mt-4 mt-xl-0">
-                    <img src="assets/images/gif.gif" alt="">
-                    <h4>We provide fast and secure service</h4>
-                    <!-- <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p> -->
+                <div class="col-lg-4 col-md-6 col-sm-12 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon-box">
+                    <div class="row">
+                      <img class="col businessImg" src="assets/images/icon/mobileService.gif">
+                    </div>
+                    <h4 class="mr-5 ml-5">Web Services</h4>
                   </div>
                 </div>
-                <div class="col d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-                  <div class="icon-box mt-4 mt-xl-0">
-                    <!-- <i class="bx bx-receipt"></i> -->
-                    <img src="assets/images/gif.gif" alt="">
-                    <h4>We provide fast and secure service</h4>
-                    <!-- <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p> -->
+                <div class="col-lg-4 col-md-6 col-sm-12 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+                  <div class="icon-box">
+                    <div class="row">
+                      <img class="col businessImg" src="assets/images/icon/mobileService.gif">
+                    </div>
+                    <h4 class="mr-5 ml-5">Application Services</h4>
                   </div>
                 </div>
-                <div class="col d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-                  <div class="icon-box mt-4 mt-xl-0">
-                  <img src="assets/images/gif.gif" alt="">
-                    <h4>We provide life time memmber ship with us</h4>
-                    <!-- <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p> -->
+                <div class="col-lg-4 col-md-6 col-sm-12 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+                  <div class="icon-box ">
+                    <div class="row" style="align-items: center !important;">
+                      <img class="col businessImg" src="assets/images/icon/GraphicService.gif">
+                    </div>
+                    <h4 class="mr-5 ml-5">Graphic Service</h4>
                   </div>
                 </div>
               </div>
