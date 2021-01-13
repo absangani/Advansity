@@ -6,13 +6,8 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>Advansity-About</title>
-<<<<<<< HEAD
-  <meta content="ADVANSITY IT WORLD has been started to provide quality training and work to young aspirant students and clients, who wish to become professionals in the IT industry. We want to create new standards of edutainment teaching in computer and it sector, which inspires many students and clients, and helps them to achieve their dreams in the technological world with ease. We strive to understand your goal first." name="description">
-  <meta content="" name="keywords">
-=======
   <meta content="" name="description">
   <meta content="web & graphic development, it academy,digital marketing,technology, software development, it services, flutter, programming ,SEO, SMO, virtual tour, business stratergy, advance,diversity" name="keywords">
->>>>>>> 6f16cd5c6e89ca3a299205eeb82212a642059ad1
 
   <!-- Favicons -->
   <!-- <link href="<?php echo base_url();?>assets/img/favicon.png" rel="icon">
