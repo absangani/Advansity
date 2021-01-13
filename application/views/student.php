@@ -31,12 +31,7 @@
   <!-- Template Main CSS File -->
   <link href="<?php echo base_url();?>assets/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Flexor - v3.0.0
-  * Template URL: https://bootstrapmade.com/flexor-free-multipurpose-bootstrap-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+ 
 </head>
 
 
@@ -78,7 +73,7 @@
                       <img src="assets/images/icon/tumblr_inline_onjbykfjMQ1sndsvm_540.gif">
                     </div>
                     
-                    <h4 class="mr-5 ml-5">(lab</h4>
+                    <h4 class="mr-5 ml-5">We provide practical knowledge.</h4>
                   </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
@@ -86,7 +81,7 @@
                     <div class="row">
                       <img src="assets/images/icon/dribbble-gif.gif">
                     </div>
-                    <h4 class="mr-5 ml-5">We provide life time memmber (Exam)</h4>
+                    <h4 class="mr-5 ml-5">We take exams for check how much knowledge you get.</h4>
                   </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
@@ -94,7 +89,7 @@
                     <div class="row">
                       <img src="assets/images/icon/tenor.gif">
                     </div>
-                    <h4 class="mr-5 ml-5">certification)</h4>
+                    <h4 class="mr-5 ml-5">Felicitation for your achievements.</h4>
                   </div>
                 </div>
               </div>
@@ -170,7 +165,7 @@
 
         <div class="section-title">
           <h2 data-aos="fade-up">Courses</h2>
-          <!-- <p data-aos="fade-up">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
+         
         </div>
         <div class="row">
           <div class="owl-carousel courses-carousel">
