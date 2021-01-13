@@ -117,40 +117,31 @@
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+            <img src="assets/images/gallery/lab.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>App 1</h4>
-              <p>App</p>
-              <a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Lab</h4>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+            <img src="assets/images/gallery/class.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
-              <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>Class Room</h4>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+            <img src="assets/images/gallery/waiting.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
-              <h4>App 2</h4>
-              <p>App</p>
-              <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+              <h4>waiting Area</h4>
             </div>
           </div>
         </div>
-        <div class="text-center">
+        <!-- <div class="text-center">
           <div class="align-items-center">
             <a id="btnGallery" href="" class="btn">View Gallery</a>
           </div>
-        </div>
+        </div> -->
 
       </div>
     </section>
@@ -163,7 +154,6 @@
 
         <div class="section-title">
           <h2 data-aos="fade-up">Team</h2>
-          <p data-aos="fade-up">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
         </div>
 
         <div class="row">
@@ -171,7 +161,7 @@
             <div class="d-flex align-items-stretch mr-5" data-aos="fade-up">
               <div class="member">
                 <div class="member-img">
-                  <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                  <img src="assets/images/team/Umang sir.jpg" class="img-fluid" alt="">
                   <div class="social">
                     <a href="https://twitter.com/AdvansityW?s=09"><i class="icofont-twitter"></i></a>
                     <a href="https://www.facebook.com/advansity.itworld"><i class="icofont-facebook"></i></a>
@@ -180,8 +170,8 @@
                   </div>
                 </div>
                 <div class="member-info">
-                  <h4></h4>
-                  <span></span>
+                  <h4>Mr. Umang Patel</h4>
+                  <span>Fouder of Advansity</span>
                 </div>
               </div>
             </div>
@@ -189,7 +179,7 @@
             <div class="d-flex align-items-stretch mr-5" data-aos="fade-up" data-aos-delay="100">
               <div class="member">
                 <div class="member-img">
-                  <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                  <img src="assets/images/team/hitaxi.jpg" class="img-fluid" alt="">
                   <div class="social">
                     <a href="https://twitter.com/AdvansityW?s=09"><i class="icofont-twitter"></i></a>
                     <a href="https://www.facebook.com/advansity.itworld"><i class="icofont-facebook"></i></a>
@@ -198,8 +188,8 @@
                   </div>
                 </div>
                 <div class="member-info">
-                  <h4>Sarah Jhonson</h4>
-                  <span>Product Manager</span>
+                  <h4>Ms. Hitaxi Savani</h4>
+                  <span>Fouder of Advansity</span>
                 </div>
               </div>
             </div>
@@ -207,7 +197,7 @@
             <div class="d-flex align-items-stretch mr-5" data-aos="fade-up" data-aos-delay="200">
               <div class="member">
                 <div class="member-img">
-                  <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                  <img src="assets/images/team/anuj.jpg" class="img-fluid" alt="">
                   <div class="social">
                     <a href="https://twitter.com/AdvansityW?s=09"><i class="icofont-twitter"></i></a>
                     <a href="https://www.facebook.com/advansity.itworld"><i class="icofont-facebook"></i></a>
@@ -216,8 +206,8 @@
                   </div>
                 </div>
                 <div class="member-info">
-                  <h4>William Anderson</h4>
-                  <span>CTO</span>
+                  <h4>Mr. Anuj Rajput</h4>
+                  <span>Senior marketing manager</span>
                 </div>
               </div>
             </div>
@@ -225,7 +215,58 @@
             <div class="d-flex align-items-stretch mr-5" data-aos="fade-up" data-aos-delay="300">
               <div class="member">
                 <div class="member-img">
-                  <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+                  <img src="assets/images/team/priya.jpg" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href=""><i class="icofont-twitter"></i></a>
+                    <a href=""><i class="icofont-facebook"></i></a>
+                    <a href=""><i class="icofont-instagram"></i></a>
+                    <a href=""><i class="icofont-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Ms. Pooja Manvani</h4>
+                  <span>Flutter & DotNet Developer</span>
+                </div>
+              </div>
+            </div>
+            <div class="d-flex align-items-stretch mr-5" data-aos="fade-up" data-aos-delay="300">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/images/team/akshay.jpg" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href=""><i class="icofont-twitter"></i></a>
+                    <a href=""><i class="icofont-facebook"></i></a>
+                    <a href=""><i class="icofont-instagram"></i></a>
+                    <a href=""><i class="icofont-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Mr. Akshay Sangani</h4>
+                  <span>Full Stack developer</span>
+                </div>
+              </div>
+            </div>
+            <div class="d-flex align-items-stretch mr-5" data-aos="fade-up" data-aos-delay="300">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/images/team/sarika.jpg" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href=""><i class="icofont-twitter"></i></a>
+                    <a href=""><i class="icofont-facebook"></i></a>
+                    <a href=""><i class="icofont-instagram"></i></a>
+                    <a href=""><i class="icofont-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Ms. Sarika Kyada</h4>
+                  <span>Management Executive</span>
+                </div>
+              </div>
+            </div>
+            <div class="d-flex align-items-stretch mr-5" data-aos="fade-up" data-aos-delay="300">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/images/team/Chirag.jpg" class="img-fluid" alt="">
                   <div class="social">
                     <a href="https://twitter.com/AdvansityW?s=09"><i class="icofont-twitter"></i></a>
                     <a href="https://www.facebook.com/advansity.itworld"><i class="icofont-facebook"></i></a>
@@ -234,8 +275,8 @@
                   </div>
                 </div>
                 <div class="member-info">
-                  <h4>Amanda Jepson</h4>
-                  <span>Accountant</span>
+                  <h4>Mr. Chirag Savaliya</h4>
+                  <span>Senior Graphic Designer</span>
                 </div>
               </div>
             </div>

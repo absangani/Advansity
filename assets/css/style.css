@@ -184,7 +184,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #3526ff;
+  /* color: #3526ff; */
   text-decoration: none;
 }
 
@@ -223,7 +223,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .drop-down ul a:hover, .nav-menu .drop-down ul .active > a, .nav-menu .drop-down ul li:hover > a {
-  color: #3526ff;
+  /* color: #3526ff; */
 }
 
 .nav-menu .drop-down > a:after {
@@ -788,7 +788,7 @@ section {
 }
 
 .about .video-box {
-  background: url("../img/about-img.jpg") center center no-repeat;
+  background: url("../images/homeImg.jpg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
