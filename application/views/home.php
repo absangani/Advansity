@@ -217,27 +217,27 @@
 
           <div class="testimonial-item">
             <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-            <h3>Saul Goodman</h3>
-            <h4>Ceo &amp; Founder</h4>
+            <h3>Deepak Patil</h3>
+            <h4><b>C.E.O of I.M.Possible Training Institute</b></h4>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+              I can say without question that the entire team at Advansity are committed to getting the best possible outcome for their clients. I have never seen anywhere else that is so well managed, and focused on providing a great client experiance as the people in this firm.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
           </div>
 
           <div class="testimonial-item">
             <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-            <h3>Sara Wilsson</h3>
-            <h4>Designer</h4>
+            <h3>Dr.Chintan A.Shah</h3>
+            <h4><b>Assistant professor of Bhagwan mahavir University</b</h4>
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+              In the 21st century, the whole world is booming in the field of technology, especially in the field of IT , then you too are going to step in with them and unique work in this field through advensity IT world. Congratulations to hitaxi and his young team. I hope that your young team reaches the pinnacle of success with complete transparency and honesty.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
           </div>
 
-          <div class="testimonial-item">
+          <!-- <div class="testimonial-item">
             <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
             <h3>Jena Karlis</h3>
             <h4>Store Owner</h4>
@@ -268,12 +268,13 @@
               Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
-          </div>
+          </div> -->
 
         </div>
 
       </div>
-    </section><!-- End Testimonials Section -->
+    </section>
+    <!-- End Testimonials Section -->
 
     <!-- ======= Clients Section ======= -->
     <!-- <section id="clients" class="clients">
