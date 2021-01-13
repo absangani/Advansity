@@ -24,6 +24,7 @@
   <link href="<?php echo base_url();?>assets/vendor/venobox/venobox.css" rel="stylesheet">
   <link href="<?php echo base_url();?>assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="<?php echo base_url();?>assets/vendor/aos/aos.css" rel="stylesheet">
+  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 
   <!-- Template Main CSS File -->
   <link href="<?php echo base_url();?>assets/css/style.css" rel="stylesheet">
@@ -42,7 +43,7 @@
 
 <?php $this->load->view('navbar'); ?>
   <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
+  <section id="hero" class="d-flex flex-column justify-content-center align-items-center contact-hero">
     <div class="container" data-aos="fade-in">
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="fade-up">
@@ -52,8 +53,7 @@
           </div>
         </div>
         <div id="teacher-section" class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left">
-          <img src="assets/images/teacher_student_page.gif" class="img-fluid" alt="">
-          <!-- <lottie-player src="https://assets10.lottiefiles.com/private_files/lf30_Fy9W8c.json"  background="rgba(0, 0, 0, 0)"  speed="1"  style="width: 660px; height: 600px;"  loop autoplay></lottie-player> -->
+          <lottie-player src="https://assets6.lottiefiles.com/temp/lf20_baStwL.json"  background="transparent"  speed="1"  style="width: 600px; height: 600px;"  loop autoplay></lottie-player>
         </div>
       </div>
     </div>
@@ -94,6 +94,8 @@
             </div>
           </div>
         </div>
+
+        
 
         <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="300">
           <div class="col-xl-9 col-lg-12 mt-4">
@@ -141,6 +143,11 @@
             </form>
           </div>
 
+        </div>
+
+        <div class="row mt-5 justify-content-center">
+          <iframe id="gmap_canvas" src="https://maps.google.com/maps?q=235,crystal%20plaza%20Silver%20Chowk,%20Punagam,%20Surat,%20Gujarat%20395010&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+          <!-- <iframe src="https://www.google.com/maps/place/Advansity+IT+world/@21.2045538,72.8790807,17z/data=!3m1!4b1!4m5!3m4!1s0x3be04f57a9c89e3d:0x67c24183b360f8b0!8m2!3d21.2045538!4d72.8812694" frameborder="0" allowfullscreen></iframe> -->
         </div>
 
       </div>

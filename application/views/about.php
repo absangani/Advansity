@@ -43,7 +43,7 @@
  
 <?php $this->load->view('navbar'); ?>
   <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
+  <section id="hero" class="d-flex flex-column justify-content-center align-items-center about-hero">
     <div class="container" data-aos="fade-in">
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="fade-up">
@@ -54,7 +54,7 @@
           </div>
         </div>
         <div id="about-section" class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left">
-          <lottie-player src="https://assets9.lottiefiles.com/private_files/lf30_4bVja9.json"  background="transparent"  speed="1"  style="width: 400px; height: 400px;"  loop autoplay></lottie-player>
+          <lottie-player src="https://assets9.lottiefiles.com/private_files/lf30_4bVja9.json"  background="transparent"  speed="1"  style="width: 400px; height: 350px;"  loop autoplay></lottie-player>
         </div>
       </div>
 
@@ -109,143 +109,6 @@
 
       </div>
     </section>
-
-    <!-- ======= Clients Section ======= -->
-    <!-- <section id="collaborater" class="collaborater section-bg">
-      <div class="container" data-aos="fade-up">
-
-        <div class="owl-carousel clients-carousel">
-          <img src="assets/img/clients/client-1.png" alt="">
-          <img src="assets/img/clients/client-2.png" alt="">
-          <img src="assets/img/clients/client-3.png" alt="">
-          <img src="assets/img/clients/client-4.png" alt="">
-          <img src="assets/img/clients/client-5.png" alt="">
-          <img src="assets/img/clients/client-6.png" alt="">
-          <img src="assets/img/clients/client-7.png" alt="">
-          <img src="assets/img/clients/client-8.png" alt="">
-        </div>
-
-      </div>
-    </section> -->
-    <!-- End Clients Section -->
-
-
-    <!-- ======= Services Section ======= -->
-    <!-- <section id="aboutServices" class="aboutServices">
-      <div class="container">
-        <div class="section-title" data-aos="fade-up">
-          <h2 class="pb-4">Student Services</h2>
-          
-        </div>
-
-        <div class="row">
-          <div id="main-box" class="col-lg-3 col-md-6" data-aos="fade-up">
-            <div id="box1" class="icon-box">
-              <div class="icon"><i class="fa fa-book-open"></i></div>
-              <h4 class="title"><a href="">Best Courses</a></h4>
-              
-            </div>
-            <div id="ovr1" class="upper-box">
-              <div class="icon"><i class="fa fa-book-open"></i></div>
-              <h4 class="title"><a href="" class="text-dark">on hover</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-            </div>
-          </div>
-          <div id="main-box2" class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div id="box2" class="icon-box">
-              <div class="icon"><i class="icofont-chart-bar-graph"></i></div>
-              <h4 class="title"><a href="">company base learning</a></h4>
-              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
-            </div>
-            <div id="ovr2" class="upper-box">
-              <div class="icon"><i class="fa fa-book-open"></i></div>
-              <h4 class="title"><a href="">on hover</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-            </div>
-          </div>
-          <div id="main-box3" class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <div id="box3" class="icon-box">
-              <div class="icon"><i class="fa fa-chalkboard-teacher"></i></div>
-              <h4 class="title"><a href="">free internship</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
-            </div>
-            <div id="ovr3" class="upper-box">
-              <div class="icon"><i class="fa fa-book-open"></i></div>
-              <h4 class="title"><a href="">on hover</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-            </div>
-          </div>
-          <div id="main-box4" class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
-            <div id="box4" class="icon-box">
-              <div class="icon"><i class="fa fa-chalkboard-teacher"></i></div>
-              <h4 class="title"><a href="">free internship</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
-            </div>
-            <div id="ovr4" class="upper-box">
-              <div class="icon"><i class="fa fa-book-open"></i></div>
-              <h4 class="title"><a href="">on hover</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-            </div>
-          </div>
-        </div>
-        <div class="section-title pt-4" data-aos="fade-up">
-          <h2 class="pb-4 pt-5">Business Services</h2>
-          
-        </div>
-        <div class="row">
-          <div id="main-box5" class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
-            <div id="box5" class="icon-box">
-              <div class="icon"><i class="fa fa-code"></i></div>
-              <h4 class="title"><a href="">software Development</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-            </div>
-            <div id="ovr5" class="upper-box">
-              <div class="icon"><i class="fa fa-code"></i></div>
-              <h4 class="title"><a href="">software Development</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-            </div>
-          </div>
-          <div id="main-box6" class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="400">
-            <div id="box6" class="icon-box">
-              <div class="icon"><i class="fa fa-user-shield"></i></div>
-              <h4 class="title"><a href="">free Services</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-            </div>
-            <div id="ovr6" class="upper-box">
-              <div class="icon"><i class="fa fa-code"></i></div>
-              <h4 class="title"><a href="">software Development</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-            </div>
-          </div>
-          <div id="main-box7" class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="500">
-          <div id="box7" class="icon-box">
-              <div class="icon"><i class="fa fa-ad"></i></div>
-              <h4 class="title"><a href="">online marketing</a></h4>
-              <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
-            </div>
-            <div id="ovr7" class="upper-box">
-              <div class="icon"><i class="fa fa-ad"></i></div>
-              <h4 class="title"><a href="">online marketing</a></h4>
-              <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
-            </div>
-          </div>
-          <div id="main-box8" class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="500">
-            <div id="box8" class="icon-box">
-              <div class="icon"><i class="fa fa-ad"></i></div>
-              <h4 class="title"><a href="">online marketing</a></h4>
-              <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
-            </div>
-            <div id="ovr8" class="upper-box">
-              <div class="icon"><i class="fa fa-ad"></i></div>
-              <h4 class="title"><a href="">online marketing</a></h4>
-              <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
-            </div>
-          </div>
-        </div>
-
-      </div>
-    </section> -->
-    <!-- End Services Section -->
     
 
     <!-- ======= Portfolio Section ======= -->
@@ -310,79 +173,79 @@
         </div>
 
         <div class="row">
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="icofont-twitter"></i></a>
-                  <a href=""><i class="icofont-facebook"></i></a>
-                  <a href=""><i class="icofont-instagram"></i></a>
-                  <a href=""><i class="icofont-linkedin"></i></a>
+          <div class="owl-carousel team-carousel">
+            <div class="d-flex align-items-stretch mr-5" data-aos="fade-up">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href=""><i class="icofont-twitter"></i></a>
+                    <a href=""><i class="icofont-facebook"></i></a>
+                    <a href=""><i class="icofont-instagram"></i></a>
+                    <a href=""><i class="icofont-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4></h4>
+                  <span></span>
                 </div>
               </div>
-              <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Executive Officer</span>
+            </div>
+  
+            <div class="d-flex align-items-stretch mr-5" data-aos="fade-up" data-aos-delay="100">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href=""><i class="icofont-twitter"></i></a>
+                    <a href=""><i class="icofont-facebook"></i></a>
+                    <a href=""><i class="icofont-instagram"></i></a>
+                    <a href=""><i class="icofont-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Sarah Jhonson</h4>
+                  <span>Product Manager</span>
+                </div>
+              </div>
+            </div>
+  
+            <div class="d-flex align-items-stretch mr-5" data-aos="fade-up" data-aos-delay="200">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href=""><i class="icofont-twitter"></i></a>
+                    <a href=""><i class="icofont-facebook"></i></a>
+                    <a href=""><i class="icofont-instagram"></i></a>
+                    <a href=""><i class="icofont-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>William Anderson</h4>
+                  <span>CTO</span>
+                </div>
+              </div>
+            </div>
+  
+            <div class="d-flex align-items-stretch mr-5" data-aos="fade-up" data-aos-delay="300">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+                  <div class="social">
+                    <a href=""><i class="icofont-twitter"></i></a>
+                    <a href=""><i class="icofont-facebook"></i></a>
+                    <a href=""><i class="icofont-instagram"></i></a>
+                    <a href=""><i class="icofont-linkedin"></i></a>
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Amanda Jepson</h4>
+                  <span>Accountant</span>
+                </div>
               </div>
             </div>
           </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="icofont-twitter"></i></a>
-                  <a href=""><i class="icofont-facebook"></i></a>
-                  <a href=""><i class="icofont-instagram"></i></a>
-                  <a href=""><i class="icofont-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Product Manager</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="icofont-twitter"></i></a>
-                  <a href=""><i class="icofont-facebook"></i></a>
-                  <a href=""><i class="icofont-instagram"></i></a>
-                  <a href=""><i class="icofont-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>CTO</span>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="icofont-twitter"></i></a>
-                  <a href=""><i class="icofont-facebook"></i></a>
-                  <a href=""><i class="icofont-instagram"></i></a>
-                  <a href=""><i class="icofont-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
-              </div>
-            </div>
-          </div>
-
         </div>
 
       </div>
