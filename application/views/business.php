@@ -107,10 +107,16 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="col-md-6 order-2 order-lg-1 order-md-1 me-auto mr-5 pb-5">
-            <h2 class="mb-4">Seamlessly Communicate</h2>
-            <p class="mb-4 p_tag">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur at reprehenderit optio, laudantium eius quod, eum maxime molestiae porro omnis. Dolores aspernatur delectus impedit incidunt dolore mollitia esse natus beatae.</p>
-            <p class="mb-4 p_tag">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur at reprehenderit optio, laudantium eius quod, eum maxime molestiae porro omnis. Dolores aspernatur delectus impedit incidunt dolore mollitia esse natus beatae.</p>
-            <p class="mb-4 p_tag">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur at reprehenderit optio, laudantium eius quod, eum maxime molestiae porro omnis. Dolores aspernatur delectus impedit incidunt dolore mollitia esse natus beatae.</p>
+            <h2 class="mb-4"><b>Digital Marketing</b></h2>
+            <p  class="mb-4 p_tag"><b>Throw SEO, we provide a profit to your business Just like.....</b></p>
+            <ul>
+            <li> <p class="mb-4 p_tag">More traffic.</p></li>
+              <li><p class="mb-4 p_tag">More leads.</p></li>
+            <li><p class="mb-4 p_tag">More revenue.</p></li>
+            <li><p class="mb-4 p_tag">More brand awareness.</p></li>
+            <li><p class="mb-4 p_tag">More trust and authority.</p></li>
+            </ul>
+            <!-- <p class="mb-4 p_tag">More .</p> -->
             <!-- <p><a class="a_tag" href="#">Read More</a></p> -->
           </div>
           <div class="col-md-6 order-1 order-lg-2 order-md-2" data-aos="fade-right">
@@ -125,11 +131,12 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="col-md-6 ms-auto order-2">
-            <h2 class="mb-4">Gather Feedback</h2>
-            <p class="mb-4 p_tag">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur at reprehenderit optio, laudantium eius quod, eum maxime molestiae porro omnis. Dolores aspernatur delectus impedit incidunt dolore mollitia esse natus beatae.</p>
-            <p class="mb-4 p_tag">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur at reprehenderit optio, laudantium eius quod, eum maxime molestiae porro omnis. Dolores aspernatur delectus impedit incidunt dolore mollitia esse natus beatae.</p>
-            <p class="mb-4 p_tag">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur at reprehenderit optio, laudantium eius quod, eum maxime molestiae porro omnis. Dolores aspernatur delectus impedit incidunt dolore mollitia esse natus beatae.</p>
-            <!-- <p><a href="#">Read More</a></p> -->
+            <ul>
+            <h2 class="mb-4"><b>Social media marketing</b></h2>
+            <li> <p class="mb-4 p_tag">Social campaign.</p></li>
+            <li> <p class="mb-4 p_tag">Youtube campaigns.</p></li>
+            <li> <p class="mb-4 p_tag">Google campaigns.</p></li>
+            </ul>
           </div>
           <div class="col-md-6" data-aos="fade-right">
             <lottie-player src="https://assets7.lottiefiles.com/packages/lf20_M9wchH.json"  background="transparent"  speed="1"  style="width: auto; height: auto;"  loop autoplay></lottie-player>
@@ -145,29 +152,29 @@
       <div class="container">
 
         <div class="section-title pt-4" data-aos="fade-up">
-          <h2>Business Services</h2>
+          <h2>Extra Services</h2>
           <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
         <div class="row">
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="fa fa-code"></i></div>
-              <h4 class="title"><a href="">software Development</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <h4 class="title"><a href="">QR Code</a></h4>
+              <p class="description">We provide customize QR code. </p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
             <div class="icon-box">
               <div class="icon"><i class="fa fa-user-shield"></i></div>
-              <h4 class="title"><a href="">free Services</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+              <h4 class="title"><a href="">360<span>&#176;</span> Virtual Tour</a></h4>
+              <p class="description">We create 360<span>&#176;</span> virtual tour of your firm.  </p>
             </div>
           </div>
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
             <div class="icon-box">
               <div class="icon"><i class="fa fa-ad"></i></div>
               <h4 class="title"><a href="">online marketing</a></h4>
-              <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+             <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
             </div>
           </div>
         </div>
