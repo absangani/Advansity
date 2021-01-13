@@ -75,9 +75,6 @@
               <p>
                 We acclerating you to becoming forward in to the IT world and forming you to the advance version technology. You are able to go through the live with all technology.
               </p>
-              <div class="text-center">
-                <a href="#" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
-              </div>
             </div>
           </div>
           <div class="col-xl-8 col-lg-7 d-flex">
@@ -87,21 +84,18 @@
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="fa fa-user-shield"></i>
                     <h4>We provide advance and secure service.</h4>
-                    <!-- <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p> -->
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="fa fa-briefcase"></i>
                     <h4>We provide you qualitise IT work.</h4>
-                    <!-- <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p> -->
                   </div>
                 </div>
                 <div class="col-xl-4 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
                   <div class="icon-box mt-4 mt-xl-0">
                     <i class="fa fa-chalkboard-teacher"></i>
                     <h4>Chance to Learn with internship program.</h4>
-                    <!-- <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p> -->
                   </div>
                 </div>
               </div>
@@ -124,7 +118,6 @@
           <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
             <h4 data-aos="fade-up">About us</h4>
             <h3 data-aos="fade-up">As an IT service provider we help to increase your business in online field and as IT academy we teach to development of software.  </h3>
-            <!-- <p data-aos="fade-up">Esse voluptas cumque vel exercitationem. Reiciendis est hic accusamus. Non ipsam et sed minima temporibus laudantium. Soluta voluptate sed facere corporis dolores excepturi. Libero laboriosam sint et id nulla tenetur. Suscipit aut voluptate.</p> -->
 
             <div class="icon-box" data-aos="fade-up">
               <a href="<?php echo base_url();?>Student">
@@ -136,7 +129,7 @@
 
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <a href="<?php echo base_url();?>Business">
-                <div class="icon"><i class="fa fa-laptop-code"></i></div>
+                <div class="icon"><i class="fa fa-chart-line"></i></div>
                 <h4 class="title">Business service</h4>
                 <p class="description">To make you number one frim in world wide reputation, We give you digital market.<br><b>See More ...</b></p>
               </a>
