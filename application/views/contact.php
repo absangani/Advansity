@@ -7,8 +7,6 @@
 
   <title>Advansity-contact us</title>
   <meta content="ADVANSITY IT WORLD has been started to provide quality training and work to young aspirant students and clients, who wish to become professionals in the IT industry. We want to create new standards of edutainment teaching in computer and it sector, which inspires many students and clients, and helps them to achieve their dreams in the technological world with ease. We strive to understand your goal first." name="description">
-  <meta content="" name="keywords">
-  <meta content="" name="description">
   <meta content="web & graphic development, it academy,digital marketing,technology, software development, it services, flutter, programming ,SEO, SMO, virtual tour, business stratergy, advance,diversity" name="keywords">
 
   <!-- Favicons -->
