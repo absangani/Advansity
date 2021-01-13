@@ -48,11 +48,8 @@
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center ">
     <div class="container" data-aos="fade-in">
       <div class="row">
-        <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="fade-up">
-          <div>
-            <h1>Welcome to <br>Advansity IT World</h1>
-            <h2>Our talented team work for making your dream to real</h2>
-          </div>
+        <div class="student-img-section col-lg-6 order-2 order-lg-1 hero-img justify-content-center" data-aos="fade-up">
+          <img class="student-img img-fluid" src="assets/images/poster.png">
         </div>
         <div id="teacher-section" class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left">
           <lottie-player src="https://assets10.lottiefiles.com/private_files/lf30_Fy9W8c.json"  background="rgba(0, 0, 0, 0)"  speed="1"  style="width: 660px; height: 600px;"  loop autoplay></lottie-player>

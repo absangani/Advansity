@@ -95,6 +95,8 @@
           </div>
         </div>
 
+        
+
         <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="300">
           <div class="col-xl-9 col-lg-12 mt-4">
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
@@ -141,6 +143,11 @@
             </form>
           </div>
 
+        </div>
+
+        <div class="row mt-5 justify-content-center">
+          <iframe id="gmap_canvas" src="https://maps.google.com/maps?q=235,crystal%20plaza%20Silver%20Chowk,%20Punagam,%20Surat,%20Gujarat%20395010&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+          <!-- <iframe src="https://www.google.com/maps/place/Advansity+IT+world/@21.2045538,72.8790807,17z/data=!3m1!4b1!4m5!3m4!1s0x3be04f57a9c89e3d:0x67c24183b360f8b0!8m2!3d21.2045538!4d72.8812694" frameborder="0" allowfullscreen></iframe> -->
         </div>
 
       </div>
