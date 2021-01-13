@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Flexor Bootstrap Template - Index</title>
+  <title>Advansity-business</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -29,12 +29,7 @@
   <!-- Template Main CSS File -->
   <link href="<?php echo base_url();?>assets/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Flexor - v3.0.0
-  * Template URL: https://bootstrapmade.com/flexor-free-multipurpose-bootstrap-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+  
 </head>
 
 

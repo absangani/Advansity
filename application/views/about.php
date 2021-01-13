@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Flexor Bootstrap Template - Index</title>
+  <title>Advansity-About</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -30,12 +30,7 @@
   <!-- Template Main CSS File -->
   <link href="<?php echo base_url();?>assets/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Flexor - v3.0.0
-  * Template URL: https://bootstrapmade.com/flexor-free-multipurpose-bootstrap-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+  
 </head>
 
 <body>
@@ -73,8 +68,7 @@
               <!-- <div class="card-body"> -->
                 <h5 class="card-title"><a href="">Our Mission</a></h5>
                 <p class="card-text">To acclerated the world towards the direction of ADVANCE digitally and to buzz them off from the wrong opinion.</p>
-                <!-- <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div> -->
-              <!-- </div> -->
+               
             </div>
           </div>
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100">
