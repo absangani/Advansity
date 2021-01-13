@@ -7,7 +7,7 @@
 
   <title>Flexor Bootstrap Template - Index</title>
   <meta content="" name="description">
-  <meta content="" name="keywords">
+  <meta content="web & graphic development, it academy,digital marketing,technology, software development, it services, flutter, programming ,SEO, SMO, virtual tour, business stratergy, advance,diversity" name="keywords">
 
   <!-- Favicons -->
   <link href="<?php echo base_url();?>assets/img/favicon.png" rel="icon">
