@@ -387,7 +387,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   z-index: 1;
   padding: 0;
-  margin-bottom: -120px;
+  margin-bottom: -10px;
 }
 
 #hero:before {
@@ -402,25 +402,6 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .container {
   z-index: 2;
-}
-
-/* .hero .wave {
-  width: 100%;
-  overflow: hidden;
-  position: absolute;
-  z-index: 1;
-  bottom: 150px;
-  background: #0f0d0c;
-} */
-
-@media screen and (max-width: 992px) {
-  .hero .wave {
-    bottom: -180px;
-  }
-}
-
-.hero .wave svg {
-  width: 100%;
 }
 
 #hero h1 {
@@ -2293,6 +2274,11 @@ background: #212529;
   }
 }
 
+.btn-secondary{
+  background: #fff;
+  color: #000000ab;
+  margin-right: 10px;
+}
 /*--------------------------------------------------------------
 # business Page
 --------------------------------------------------------------*/
@@ -2452,6 +2438,18 @@ background: #212529;
     height: 200px !important;
   }
 }
+
+#about-section lottie-player {
+  width: 100% !important;
+  margin: 0px 0px 0px 0px !important;
+}
+
+@media (max-width: 1000px){
+  #about-section lottie-player {
+    height: 200px !important;
+    margin: 0px 0px 0px 0px !important;
+  }
+}
 /*--------------------------------------------------------------
 # Features
 --------------------------------------------------------------*/
@@ -2515,6 +2513,43 @@ background: #212529;
 
 .features .tab-content {
   text-align: right;
+}
+
+.features-business h2{
+  color: #5b5b5b;
+}
+.features-business .p_tag {
+  color: #7b7b7b;
+}
+.features-business .SEO {
+  width: 600px !important;
+  height: 300px !important;
+}
+
+@media (max-width: 930px),(min-width: 550px){
+  .features-business .SEO {
+    margin-left: -60px !important;
+  }
+}
+
+@media (max-width: 550px){
+  .features-business .SEO {
+    /* margin-right: 100px !important; */
+    margin-left: -130px !important;
+  }
+}
+@media (max-width: 370px){
+  .features-business .SEO {
+    /* margin-right: 100px !important; */
+    margin-left: -200px !important;
+  }
+}
+
+@media (max-width: 760px){
+  .features-business .SEO {
+    width: 700px !important;
+    height: 300px !important;
+  }
 }
 
 @-webkit-keyframes slide-down {

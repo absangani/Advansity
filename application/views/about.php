@@ -24,6 +24,8 @@
   <link href="<?php echo base_url();?>assets/vendor/venobox/venobox.css" rel="stylesheet">
   <link href="<?php echo base_url();?>assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="<?php echo base_url();?>assets/vendor/aos/aos.css" rel="stylesheet">
+  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
 
   <!-- Template Main CSS File -->
   <link href="<?php echo base_url();?>assets/css/style.css" rel="stylesheet">
@@ -45,14 +47,14 @@
     <div class="container" data-aos="fade-in">
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="fade-up">
-          <h1>Advance + Diversity</h1>
-          <p>We are dynamic team and our aim is to give something advance & different to clients and students.</p>
-          <h2>     You talk we do - our result</h2>
-          <p>ADVANSITY IT WORLD has been started to provide quality training and work to young aspirant students and clients, who wish to become professionals in the IT industry. We want to create new standards of edutainment teaching in computer and it sector, which inspires many students and clients, and helps them to achieve their dreams in the technological world with ease. We strive to understand your goal first.</p>
-          <!-- <div class="d-flex align-items-center">
-            <i class="bx bxs-right-arrow-alt get-started-icon"></i>
-            <a href="#about" class="btn-get-started scrollto">Get Started</a>
-          </div> -->
+          <div>
+            <h1>Advance + Diversity</h1>
+            <p>We are dynamic team and our aim is to give something advance & different to clients and students.</p>
+            <p>ADVANSITY IT WORLD has been started to provide quality training and work to young aspirant students and clients, who wish to become professionals in the IT industry. We want to create new standards of edutainment teaching in computer and it sector, which inspires many students and clients, and helps them to achieve their dreams in the technological world with ease. We strive to understand your goal first.</p>
+          </div>
+        </div>
+        <div id="about-section" class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left">
+          <lottie-player src="https://assets9.lottiefiles.com/private_files/lf30_4bVja9.json"  background="transparent"  speed="1"  style="width: 400px; height: 400px;"  loop autoplay></lottie-player>
         </div>
       </div>
 
