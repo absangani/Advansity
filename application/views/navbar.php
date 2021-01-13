@@ -5,7 +5,7 @@
         <ul>
           <li><i class="icofont-envelope"></i><a href="mailto:contact.advansity@gmail.com">contact.advansity@gmail.com</a></li>
           <li><i class="icofont-phone"></i><tel>+91 8866635656</tel> </li>
-          <li><i class="icofont-clock-time icofont-flip-horizontal"></i> Mon-Fri 9am - 5pm</li>
+          <li id="todayDate"><i class="icofont-clock-time icofont-flip-horizontal"></i> Mon-Fri 9am - 5pm</li>
         </ul>
 
       </div>

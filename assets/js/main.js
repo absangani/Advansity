@@ -53,6 +53,11 @@
     }
   });
 
+  $(document).ready(function() {
+    var d = new Date();
+    document.getElementById("todayDate").innerHTML = d;
+  });
+
   // Navigation active state on scroll
   var nav_sections = $('section');
   var main_nav = $('.nav-menu, .mobile-nav');
@@ -236,6 +241,8 @@
       $('.venobox').venobox();
     });
   });
+
+  
 
   // Portfolio details carousel
   $(".portfolio-details-carousel").owlCarousel({
