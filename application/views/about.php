@@ -6,12 +6,12 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>Advansity-About</title>
-  <meta content="" name="description">
+  <meta content="ADVANSITY IT WORLD has been started to provide quality training and work to young aspirant students and clients, who wish to become professionals in the IT industry. We want to create new standards of edutainment teaching in computer and it sector, which inspires many students and clients, and helps them to achieve their dreams in the technological world with ease. We strive to understand your goal first." name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="<?php echo base_url();?>assets/img/favicon.png" rel="icon">
-  <link href="<?php echo base_url();?>assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <!-- <link href="<?php echo base_url();?>assets/img/favicon.png" rel="icon">
+  <link href="<?php echo base_url();?>assets/img/apple-touch-icon.png" rel="apple-touch-icon"> -->
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
