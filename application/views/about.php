@@ -217,10 +217,10 @@
                 <div class="member-img">
                   <img src="assets/images/team/priya.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href=""><i class="icofont-twitter"></i></a>
-                    <a href=""><i class="icofont-facebook"></i></a>
-                    <a href=""><i class="icofont-instagram"></i></a>
-                    <a href=""><i class="icofont-linkedin"></i></a>
+                    <a href="https://twitter.com/AdvansityW?s=09"><i class="icofont-twitter"></i></a>
+                    <a href="https://www.facebook.com/advansity.itworld"><i class="icofont-facebook"></i></a>
+                    <a href="https://www.instagram.com/invites/contact/?i=1l2vl9b8j7cxe&utm_content=kqwgc4a"><i class="icofont-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/advansity-it-world-429772202"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -234,10 +234,10 @@
                 <div class="member-img">
                   <img src="assets/images/team/akshay.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href=""><i class="icofont-twitter"></i></a>
-                    <a href=""><i class="icofont-facebook"></i></a>
-                    <a href=""><i class="icofont-instagram"></i></a>
-                    <a href=""><i class="icofont-linkedin"></i></a>
+                    <a href="https://twitter.com/AdvansityW?s=09"><i class="icofont-twitter"></i></a>
+                    <a href="https://www.facebook.com/advansity.itworld"><i class="icofont-facebook"></i></a>
+                    <a href="https://www.instagram.com/invites/contact/?i=1l2vl9b8j7cxe&utm_content=kqwgc4a"><i class="icofont-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/advansity-it-world-429772202"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
@@ -251,10 +251,10 @@
                 <div class="member-img">
                   <img src="assets/images/team/sarika.jpg" class="img-fluid" alt="">
                   <div class="social">
-                    <a href=""><i class="icofont-twitter"></i></a>
-                    <a href=""><i class="icofont-facebook"></i></a>
-                    <a href=""><i class="icofont-instagram"></i></a>
-                    <a href=""><i class="icofont-linkedin"></i></a>
+                    <a href="https://twitter.com/AdvansityW?s=09"><i class="icofont-twitter"></i></a>
+                    <a href="https://www.facebook.com/advansity.itworld"><i class="icofont-facebook"></i></a>
+                    <a href="https://www.instagram.com/invites/contact/?i=1l2vl9b8j7cxe&utm_content=kqwgc4a"><i class="icofont-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/advansity-it-world-429772202"><i class="icofont-linkedin"></i></a>
                   </div>
                 </div>
                 <div class="member-info">
