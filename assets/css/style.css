@@ -511,7 +511,6 @@ h1, h2, h3, h4, h5, h6 {
     height: 120vh;
   }
 }
-
 /*--------------------------------------------------------------
 # Contact Hero Section
 --------------------------------------------------------------*/
@@ -2385,11 +2384,26 @@ background: #212529;
   color: #657585;
 }
 
-.services-us .icon-boxes .icon-box .col {
-  /* align-items: center !important; */
-  height: 25% !important;
-  width: 25% !important;
-  padding: 40px ;
+.services-us .icon-boxes .icon-box .businessImg{
+  align-items: center !important;
+  align-content: center !important;
+  height: 70% !important;
+  width: 70% !important;
+  margin: 0px 0px 0px 50px;
+}
+
+@media (max-width: 1000px) {
+  .services-us .icon-boxes .icon-box .businessImg{
+    margin: 0px 0px 0px 40px;
+  }
+}
+
+@media (max-width: 767px) {
+  .services-us .icon-boxes .icon-box .businessImg{
+    height: 100% !important;
+    width: 100% !important;
+    margin: 0px 0px 0px 0px;
+  }
 }
 
 
@@ -2430,6 +2444,12 @@ background: #212529;
 @media (max-height: 640px) {
   #teacher-section lottie-player {
     height: 350px !important;
+  }
+}
+
+@media (max-height: 280px) {
+  #teacher-section lottie-player {
+    height: 200px !important;
   }
 }
 /*--------------------------------------------------------------
