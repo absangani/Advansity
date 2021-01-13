@@ -45,7 +45,7 @@
 
   <?php $this->load->view('navbar'); ?>
   <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
+  <section id="hero" class="d-flex flex-column justify-content-center align-items-center ">
     <div class="container" data-aos="fade-in">
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="fade-up">
@@ -55,7 +55,6 @@
           </div>
         </div>
         <div id="teacher-section" class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left">
-          <!-- <img src="assets/images/teacher_student_page.gif" class="img-fluid" alt=""> -->
           <lottie-player src="https://assets10.lottiefiles.com/private_files/lf30_Fy9W8c.json"  background="rgba(0, 0, 0, 0)"  speed="1"  style="width: 660px; height: 600px;"  loop autoplay></lottie-player>
         </div>
       </div>
@@ -173,7 +172,7 @@
           <!-- <p data-aos="fade-up">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
         <div class="row">
-          <div class="owl-carousel courses-carousel">
+          <div class="owl-carousel team-carousel">
 
             <div class="" data-aos="fade-up">
               <div class="box">
