@@ -230,7 +230,7 @@
           </div>
 
            <div class="testimonial-item">
-            <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+            <img src="assets/images/rev/BhargavSir.jpg" class="testimonial-img" alt="">
             <h3>Dr. Bhargav Ranpariya </h3>
             <h4><b> Radio Diagnosis at Kalp Hospital</b> </h4>
             <p>
