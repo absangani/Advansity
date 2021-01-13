@@ -78,8 +78,8 @@
           <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="100">
             <div class="content" style="background-image: url(assets/img/values-2.jpg);">
               <!-- <div class="card-body"> -->
-                <h5 class="card-title"><a href="">Our Plan</a></h5>
-                <p class="card-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem.</p>
+                <h5 class="card-title"><a href="">Our Strength</a></h5>
+                <p class="card-text">To making into the possible, the way it becoming is impossible.</p>
                 <!-- <div class="read-more"><a href="#"><i class="icofont-arrow-right"></i> Read More</a></div> -->
               <!-- </div> -->
             </div>
@@ -109,7 +109,7 @@
     </section>
 
     <!-- ======= Clients Section ======= -->
-    <section id="collaborater" class="collaborater section-bg">
+    <!-- <section id="collaborater" class="collaborater section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="owl-carousel clients-carousel">
@@ -124,7 +124,7 @@
         </div>
 
       </div>
-    </section>
+    </section> -->
     <!-- End Clients Section -->
 
 
@@ -252,7 +252,7 @@
 
         <div class="section-title">
           <h2 data-aos="fade-up">Portfolio</h2>
-          <p data-aos="fade-up">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <!-- <p data-aos="fade-up">Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">

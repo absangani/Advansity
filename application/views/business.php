@@ -48,8 +48,8 @@
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="fade-up">
           <div>
-            <h1>Welcome to <br>Advansity IT World</h1>
-            <h2>Our talented team work for making your dream to real</h2>
+            <h1>We are here to boost your bussiness.</h1>
+            <!-- <h2>Our talented team work for making your dream to real</h2> -->
           </div>
         </div>
         <div id="teacher-section" class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left">
