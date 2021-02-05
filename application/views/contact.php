@@ -111,8 +111,7 @@
                   <div class="validate"></div>
                 </div>
                 <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <!-- <div class="form-row"> -->
-                    <!-- <div class="field form-inline radio"> -->
+                 
                       <div class="btn-group btn-group-toggle" data-toggle="buttons">
                         <label class="btn btn-secondary">
                           <input type="radio" class="radio-button" name="options" id="option1" autocomplete="off"  checked> Business
@@ -121,20 +120,15 @@
                           <input type="radio" class="radio-button" name="options" id="option2" autocomplete="off"> Education
                         </label>
                       </div>
-                    <!-- </div> -->
-                 <!-- </div> -->
+                   
+                
                 </div>
               </div>
               <div class="form-group mt-3">
                 <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
                 <div class="validate"></div>
               </div>
-              <div class="mb-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="text-center mt-3"><button type="submit">Send Message</button></div>
             </form>
           </div>
 
